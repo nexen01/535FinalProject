@@ -1,0 +1,917 @@
+Status,CRN,Course Code,Course Subject,Course Number,Course Title,Cross List Code,College,Department,Schedule Type,Credits,Days,Time,Primary Instructor,Secondary Instructors,Max Enrollment,Current Enrollment,Enrollment Available,Waitlist Count,Campus,Location,Seating,Dates
+Open,10014,BIOL 100-01,BIOL,100,Intro to Profession,,LS,BIOL,LEC,2,R,0840 - 1020,"Menhart, Nicholas",,30,0,30,0,Mies,PS-152,48,22-AUG-22 to 10-DEC-22
+Open,11189,BIOL 105-01,BIOL,105,Introduction to Biology,,LS,BIOL,LEC,3,TR,1515 - 1630,"Irving, Thomas",,50,0,50,0,Mies,PS-152,48,22-AUG-22 to 10-DEC-22
+Open,10015,BIOL 107-01,BIOL,107,General Biol Lecture,,LS,BIOL,LEC,3,TR,1125 - 1240,"Spink, Kathryn",,49,0,49,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,10017,BIOL 109-L01,BIOL,109,General Biology Lab,,LS,BIOL,LAB,1,W,1350 - 1630,"Lin, Yuting",,24,0,24,0,Mies,PS-306,46,22-AUG-22 to 10-DEC-22
+Open,14407,BIOL 109-L02,BIOL,109,General Biology Lab,,LS,BIOL,LAB,1,W,1000 - 1240,"Lin, Yuting",,24,0,24,0,Mies,PS-306,46,22-AUG-22 to 10-DEC-22
+Open,10018,BIOL 214-01,BIOL,214,Genetics,4J,LS,BIOL,LEC,3,MW,1000 - 1115,"Cummings, Michael",,40,0,40,0,Mies,PS-240,48,22-AUG-22 to 10-DEC-22
+Open,10019,BIOL 305-01,BIOL,305,Human Anatomy,,LS,BIOL,LEC,3,TR,1125 - 1240,"Bekyarova, Tanya",,20,0,20,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,10020,BIOL 401-01,BIOL,401,Introductory Biochemistry,,LS,BIOL,LEC,3,TR,0835 - 0950,"Goswami, Rajendra",,30,0,30,0,Mies,PS-240,48,22-AUG-22 to 10-DEC-22
+Open,10021,BIOL 401-02,BIOL,401,Introductory Biochemistry,,LS,BIOL,LEC,3,, - ,"Goswami, Rajendra",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10022,BIOL 414-01,BIOL,414,Genetics Engineering Scientist,4J,LS,BIOL,LEC,3,MW,1000 - 1115,"Cummings, Michael",,2,0,2,0,Mies,PS-240,48,22-AUG-22 to 10-DEC-22
+Open,15084,BIOL 440-01,BIOL,440,Neurobiology,,LS,BIOL,LEC,3,TR,1350 - 1505,"Tuz, Karina",,15,0,15,0,Mies,PS-116,21,22-AUG-22 to 10-DEC-22
+Open,15319,BIOL 440-02,BIOL,440,Neurobiology,,LS,BIOL,LEC,3,, - ,"Tuz, Karina",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10023,BIOL 445-01,BIOL,445,Cell Biology,,LS,BIOL,LEC,3,MW,1125 - 1240,"Spink, Kathryn",,25,0,25,0,Mies,PS-152,48,22-AUG-22 to 10-DEC-22
+Open,15085,BIOL 446-01,BIOL,446,Cell Biology Laboratory,,LS,BIOL,LAB,3,F,1000 - 1230,"Lin, Yuting",,20,0,20,0,Mies,PS-306,46,22-AUG-22 to 10-DEC-22
+Open,15085,BIOL 446-01,BIOL,446,Cell Biology Laboratory,,LS,BIOL,LAB,3,T,1350 - 1630,"Lin, Yuting",,20,0,20,0,Mies,PS-306,46,22-AUG-22 to 10-DEC-22
+Open,15086,BIOL 475-01,BIOL,475,Health/Disease in Mod Society,,LS,BIOL,LEC,3,F,1350 - 1630,"Xiang, Jialing",,15,0,15,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,10954,BIOL 490-106,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Bekyarova, Tanya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10957,BIOL 490-120,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Irving, Thomas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10960,BIOL 490-130,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Orgel, Joseph",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10938,BIOL 490-139,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Xiang, Jialing",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10958,BIOL 490-145,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"McCormick, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12103,BIOL 490-152,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Miller, Nicholas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10956,BIOL 490-157,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Howard, Andrew",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10959,BIOL 490-161,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Menhart, Nicholas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12492,BIOL 490-170,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Pombert, Jean",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10924,BIOL 490-181,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Spink, Kathryn",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11636,BIOL 490-191,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Juarez, Oscar",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14171,BIOL 490-192,BIOL,490,Individual Study,,LS,BIOL,IND,3,, - ,"Tuz, Karina",,5,0,5,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10962,BIOL 491-106,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Bekyarova, Tanya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10025,BIOL 491-120,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Irving, Thomas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10527,BIOL 491-130,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Orgel, Joseph",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10982,BIOL 491-139,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Xiang, Jialing",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10980,BIOL 491-145,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"McCormick, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12102,BIOL 491-152,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Miller, Nicholas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10528,BIOL 491-157,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Howard, Andrew",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10529,BIOL 491-161,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Menhart, Nicholas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11975,BIOL 491-170,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Pombert, Jean",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10981,BIOL 491-181,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Spink, Kathryn",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11637,BIOL 491-191,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Juarez, Oscar",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14172,BIOL 491-192,BIOL,491,Biology Research Project,,LS,BIOL,IND,3,, - ,"Tuz, Karina",,5,0,5,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10026,BIOL 495-01,BIOL,495,Biology Colloquium,4L,LS,BIOL,SEM,1,M,1535 - 1650,"Howard, Andrew",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11382,BIOL 495-02,BIOL,495,Biology Colloquium,4N,LS,BIOL,SEM,1,, - ,"Howard, Andrew",,15,0,15,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11075,BIOL 501-01,BIOL,501,Graduate Laboratory Techniques,,LS,BIOL,LAB,2,M,1000 - 1230,"Bekyarova, Tanya",,15,0,15,0,Mies,PS-306,46,22-AUG-22 to 10-DEC-22
+Open,10963,BIOL 515-01,BIOL,515,Molecular Biology,,LS,BIOL,LEC,3,TR,1000 - 1115,"Miller, Nicholas",,20,0,20,0,Mies,PS-240,48,22-AUG-22 to 10-DEC-22
+Open,10964,BIOL 515-02,BIOL,515,Molecular Biology,,LS,BIOL,LEC,3,, - ,"Miller, Nicholas",,25,0,25,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10976,BIOL 520-106,BIOL,520,Laboratory Rotation,,LS,BIOL,LAB,3,, - ,"Bekyarova, Tanya",,3,0,3,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10027,BIOL 520-120,BIOL,520,Laboratory Rotation,,LS,BIOL,LAB,3,, - ,"Irving, Thomas",,3,0,3,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10028,BIOL 520-130,BIOL,520,Laboratory Rotation,,LS,BIOL,LAB,3,, - ,"Orgel, Joseph",,3,0,3,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10974,BIOL 520-139,BIOL,520,Laboratory Rotation,,LS,BIOL,LAB,3,, - ,"Xiang, Jialing",,3,0,3,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10975,BIOL 520-145,BIOL,520,Laboratory Rotation,,LS,BIOL,LAB,3,, - ,"McCormick, David",,3,0,3,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12104,BIOL 520-152,BIOL,520,Laboratory Rotation,,LS,BIOL,LAB,3,, - ,"Miller, Nicholas",,3,0,3,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10978,BIOL 520-157,BIOL,520,Laboratory Rotation,,LS,BIOL,LAB,3,, - ,"Howard, Andrew",,3,0,3,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10628,BIOL 520-161,BIOL,520,Laboratory Rotation,,LS,BIOL,LAB,3,, - ,"Menhart, Nicholas",,3,0,3,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11638,BIOL 520-191,BIOL,520,Laboratory Rotation,,LS,BIOL,LAB,3,, - ,"Juarez, Oscar",,3,0,3,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14990,BIOL 520-192,BIOL,520,Laboratory Rotation,,LS,BIOL,LAB,3,, - ,"Minh, David",,5,0,5,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10029,BIOL 527-01,BIOL,527,Immunology and Immunochemistry,,LS,BIOL,LEC,3,TR,1125 - 1240,"Tuz, Karina",,15,0,15,0,Mies,PS-240,48,22-AUG-22 to 10-DEC-22
+Open,10030,BIOL 527-02,BIOL,527,Immunology and Immunochemistry,,LS,BIOL,LEC,3,, - ,"Tuz, Karina",,30,0,30,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11691,BIOL 544-01,BIOL,544,Molecular Biology of Cells,,LS,BIOL,LEC,3,F,1000 - 1230,"Xiang, Jialing",,20,0,20,0,Mies,PS-240,48,22-AUG-22 to 10-DEC-22
+Open,11692,BIOL 544-02,BIOL,544,Molecular Biology of Cells,,LS,BIOL,LEC,3,, - ,"Xiang, Jialing",,25,0,25,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11380,BIOL 550-01,BIOL,550,Bioinformatics,,LS,BIOL,LEC,3,F,1000 - 1230,"Pombert, Jean",,20,0,20,0,Mies,SB-201,29,22-AUG-22 to 10-DEC-22
+Open,15087,BIOL 555-01,BIOL,555,Macromolecular Structure,,LS,BIOL,LEC,3,TR,0835 - 0950,"Howard, Andrew",,10,0,10,0,Mies,HH-MEZZANINE,49,22-AUG-22 to 10-DEC-22
+Open,15088,BIOL 555-02,BIOL,555,Macromolecular Structure,,LS,BIOL,LEC,3,, - ,"Howard, Andrew",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10031,BIOL 591-120,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Irving, Thomas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10658,BIOL 591-130,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Orgel, Joseph",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10530,BIOL 591-139,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Xiang, Jialing",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10531,BIOL 591-145,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"McCormick, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12107,BIOL 591-152,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Miller, Nicholas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10532,BIOL 591-157,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Howard, Andrew",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10533,BIOL 591-161,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Menhart, Nicholas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11043,BIOL 591-162,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Wang, Rong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11059,BIOL 591-167,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Chong, Hyun-Soon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11570,BIOL 591-170,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Pombert, Jean",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11639,BIOL 591-191,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Juarez, Oscar",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15054,BIOL 591-192,BIOL,591,Research and Thesis M.S.,,LS,BIOL,IND,20,, - ,"Minh, David",,5,0,5,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11171,BIOL 594-130,BIOL,594,Research Problems,,LS,BIOL,IND,20,, - ,"Orgel, Joseph",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12766,BIOL 594-139,BIOL,594,Research Problems,,LS,BIOL,IND,20,, - ,"Xiang, Jialing",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10032,BIOL 595-01,BIOL,595,Biology Colloquium,4L,LS,BIOL,SEM,1,M,1535 - 1650,"Howard, Andrew",,30,0,30,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10965,BIOL 595-02,BIOL,595,Biology Colloquium,4N,LS,BIOL,SEM,1,, - ,"Howard, Andrew",,17,0,17,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10913,BIOL 597-106,BIOL,597,Special Problems,,LS,BIOL,IND,20,, - ,"Bekyarova, Tanya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10033,BIOL 597-120,BIOL,597,Special Problems,,LS,BIOL,IND,20,, - ,"Irving, Thomas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10970,BIOL 597-130,BIOL,597,Special Problems,,LS,BIOL,IND,20,, - ,"Orgel, Joseph",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10535,BIOL 597-139,BIOL,597,Special Problems,,LS,BIOL,IND,20,, - ,"Xiang, Jialing",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10862,BIOL 597-145,BIOL,597,Special Problems,,LS,BIOL,IND,20,, - ,"McCormick, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10536,BIOL 597-157,BIOL,597,Special Problems,,LS,BIOL,IND,20,, - ,"Howard, Andrew",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10537,BIOL 597-161,BIOL,597,Special Problems,,LS,BIOL,IND,20,, - ,"Menhart, Nicholas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10969,BIOL 597-181,BIOL,597,Special Problems,,LS,BIOL,IND,20,, - ,"Spink, Kathryn",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11640,BIOL 597-191,BIOL,597,Special Problems,,LS,BIOL,IND,20,, - ,"Juarez, Oscar",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15016,BIOL 597-192,BIOL,597,Special Problems,,LS,BIOL,IND,20,, - ,"Miller, Nicholas",,3,0,3,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10034,BIOL 691-120,BIOL,691,Research and Thesis Ph.D.,,LS,BIOL,IND,20,, - ,"Irving, Thomas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10539,BIOL 691-130,BIOL,691,Research and Thesis Ph.D.,,LS,BIOL,IND,20,, - ,"Orgel, Joseph",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10540,BIOL 691-139,BIOL,691,Research and Thesis Ph.D.,,LS,BIOL,IND,20,, - ,"Xiang, Jialing",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10541,BIOL 691-145,BIOL,691,Research and Thesis Ph.D.,,LS,BIOL,IND,20,, - ,"McCormick, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12108,BIOL 691-152,BIOL,691,Research and Thesis Ph.D.,,LS,BIOL,IND,20,, - ,"Miller, Nicholas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10542,BIOL 691-157,BIOL,691,Research and Thesis Ph.D.,,LS,BIOL,IND,20,, - ,"Howard, Andrew",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10543,BIOL 691-161,BIOL,691,Research and Thesis Ph.D.,,LS,BIOL,IND,20,, - ,"Menhart, Nicholas",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11567,BIOL 691-170,BIOL,691,Research and Thesis Ph.D.,,LS,BIOL,IND,20,, - ,"Pombert, Jean",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11641,BIOL 691-191,BIOL,691,Research and Thesis Ph.D.,,LS,BIOL,IND,20,, - ,"Juarez, Oscar",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10035,CHEM 122-01,CHEM,122,Principles of Chem I w/out Lab,8A,LS,CHEM,LEC,3,MW,1000 - 1115,"Banerjee, Somdev",Cinthya E. Osuna,20,0,20,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,14602,CHEM 122-02,CHEM,122,Principles of Chem I w/out Lab,8C,LS,CHEM,LEC,3,TR,0835 - 0950,"Elsaidi, Sameh",Cinthya E. Osuna,20,0,20,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,11997,CHEM 122-03,CHEM,122,Principles of Chem I w/out Lab,8E,LS,CHEM,LEC,3,TR,1125 - 1240,"Banerjee, Somdev",Cinthya E. Osuna,20,0,20,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,14601,CHEM 122-04,CHEM,122,Principles of Chem I w/out Lab,8G,LS,CHEM,LEC,3,MW,1350 - 1505,"Banerjee, Somdev",Cinthya E. Osuna,20,0,20,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,14871,CHEM 123-L01,CHEM,123,General Chemistry Lab,9F,LS,CHEM,LAB,1,M,1350 - 1630,"Osuna, Cinthya",,30,0,30,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,15254,CHEM 123-L02,CHEM,123,General Chemistry Lab,6N,LS,CHEM,LAB,1,T,0835 - 1115,"Osuna, Cinthya",,3,0,3,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,14872,CHEM 123-L03,CHEM,123,General Chemistry Lab,9G,LS,CHEM,LAB,1,T,1350 - 1630,"Osuna, Cinthya",,30,0,30,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,15255,CHEM 123-L04,CHEM,123,General Chemistry Lab,7T,LS,CHEM,LAB,1,W,1350 - 1630,"Osuna, Cinthya",,3,0,3,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,15256,CHEM 123-L05,CHEM,123,General Chemistry Lab,7V,LS,CHEM,LAB,1,R,1350 - 1630,"Osuna, Cinthya",,3,0,3,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,14019,CHEM 123-L06,CHEM,123,General Chemistry Lab,79,LS,CHEM,LAB,1,F,1350 - 1630,"Osuna, Cinthya",,30,0,30,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,10036,CHEM 124-01,CHEM,124,Princ of Chemistry I with Lab,8A,LS,CHEM,LEC,4,MW,1000 - 1115,"Banerjee, Somdev",Cinthya E. Osuna,45,0,45,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,10037,CHEM 124-02,CHEM,124,Princ of Chemistry I with Lab,8C,LS,CHEM,LEC,4,TR,0835 - 0950,"Elsaidi, Sameh",Cinthya E. Osuna,45,0,45,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,11999,CHEM 124-03,CHEM,124,Princ of Chemistry I with Lab,8E,LS,CHEM,LEC,4,TR,1125 - 1240,"Banerjee, Somdev",Cinthya E. Osuna,45,0,45,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,14586,CHEM 124-04,CHEM,124,Princ of Chemistry I with Lab,8G,LS,CHEM,LEC,4,MW,1350 - 1505,"Banerjee, Somdev",Cinthya E. Osuna,45,0,45,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,10038,CHEM 124-L01,CHEM,124,Laboratory,9F,LS,CHEM,LAB,0,M,1350 - 1630,"Osuna, Cinthya",,30,0,30,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,15251,CHEM 124-L02,CHEM,124,Princ of Chemistry I with Lab,6N,LS,CHEM,LAB,0,T,0835 - 1115,"Osuna, Cinthya",,30,0,30,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,10040,CHEM 124-L03,CHEM,124,Laboratory,9G,LS,CHEM,REC,0,T,1350 - 1630,"Osuna, Cinthya",,30,0,30,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,15252,CHEM 124-L04,CHEM,124,Princ of Chemistry I with Lab,7T,LS,CHEM,LAB,0,W,1350 - 1630,"Osuna, Cinthya",,30,0,30,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,15253,CHEM 124-L05,CHEM,124,Laboratory,7V,LS,CHEM,LAB,0,R,1350 - 1630,"Osuna, Cinthya",,30,0,30,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,14585,CHEM 124-L06,CHEM,124,Laboratory,79,LS,CHEM,LAB,0,F,1350 - 1630,"Osuna, Cinthya",,39,0,39,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,10045,CHEM 125-01,CHEM,125,Prin of Chemistry II w/Lab,1U,LS,CHEM,LEC,4,TR,1350 - 1505,"Zion, Benjamin",Cinthya E. Osuna,20,0,20,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,11761,CHEM 125-L01,CHEM,125,Laboratory,0J,LS,CHEM,LAB,0,W,0835 - 1115,"Osuna, Cinthya",,20,0,20,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,10046,CHEM 126-01,CHEM,126,Principles Chemistry II,1U,LS,CHEM,LEC,3,TR,1350 - 1505,"Zion, Benjamin",Cinthya E. Osuna,10,0,10,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,15350,CHEM 140-01,CHEM,140,Principles of Chemistry II Lab,0J,LS,CHEM,LAB,1,W,0835 - 1115,"Osuna, Cinthya",,1,0,1,0,Mies,WH-212,36,22-AUG-22 to 10-DEC-22
+Open,12012,CHEM 235-01,CHEM,235,Organic Chemistry I-Lecture,50,LS,CHEM,LEC,3,TR,0835 - 0950,"Leight, Katherine",,5,0,5,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,12012,CHEM 235-01,CHEM,235,Organic Chemistry I-Lecture,50,LS,CHEM,LEC,3,F,1350 - 1505,"Leight, Katherine",,5,0,5,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,14916,CHEM 236-L02,CHEM,236,Organic Chemistry I-Lab,9N,LS,CHEM,LAB,1,W,0835 - 1240,"Leight, Katherine",,1,0,1,0,Mies,WH-213,94,22-AUG-22 to 10-DEC-22
+Open,15030,CHEM 236-L04,CHEM,236,Organic Chemistry I-Lab,8W,LS,CHEM,LAB,1,F,0835 - 1240,"Leight, Katherine",,1,0,1,0,Mies,WH-213,94,22-AUG-22 to 10-DEC-22
+Open,10047,CHEM 237-01,CHEM,237,Organic Chemistry I,50,LS,CHEM,LEC,4,F,1350 - 1505,"Leight, Katherine",,55,0,55,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,10047,CHEM 237-01,CHEM,237,Organic Chemistry I,50,LS,CHEM,LEC,4,TR,0835 - 0950,"Leight, Katherine",,55,0,55,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,10048,CHEM 237-L01,CHEM,237,Laboratory,,LS,CHEM,LAB,0,T,1350 - 1755,"Leight, Katherine",,18,0,18,0,Mies,WH-213,94,22-AUG-22 to 10-DEC-22
+Open,10720,CHEM 237-L02,CHEM,237,Laboratory,9N,LS,CHEM,LAB,0,W,0835 - 1240,"Leight, Katherine",,17,0,17,0,Mies,WH-213,94,22-AUG-22 to 10-DEC-22
+Open,15089,CHEM 237-L03,CHEM,237,Laboratory,,LS,CHEM,LAB,0,R,1350 - 1755,"Leight, Katherine",,18,0,18,0,Mies,WH-213,94,22-AUG-22 to 10-DEC-22
+Open,12047,CHEM 237-L04,CHEM,237,Laboratory,8W,LS,CHEM,LAB,0,F,0835 - 1240,"Leight, Katherine",,17,0,17,0,Mies,WH-213,94,22-AUG-22 to 10-DEC-22
+Open,10049,CHEM 239-01,CHEM,239,Organic Chemistry II,07,LS,CHEM,LEC,3,MW,1125 - 1240,"Chong, Hyun-Soon",,20,0,20,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,10721,CHEM 240-01,CHEM,240,Organic Chemistry Lab,,LS,CHEM,LEC,2,F,1350 - 1505,"Mandal, Braja",,20,0,20,0,Mies,PS-240,48,22-AUG-22 to 10-DEC-22
+Open,11850,CHEM 240-L01,CHEM,240,Laboratory,,LS,CHEM,LAB,0,M,1350 - 1755,"Mandal, Braja",,20,0,20,0,Mies,WH-213,94,22-AUG-22 to 10-DEC-22
+Open,10547,CHEM 343-01,CHEM,343,Physical Chemistry I,,LS,CHEM,LEC,3,MW,1350 - 1505,"Zion, Benjamin",,25,0,25,0,Mies,PS-240,48,22-AUG-22 to 10-DEC-22
+Open,11481,CHEM 344-01,CHEM,344,Physical Chemistry II,5Y,LS,CHEM,LEC,4,MW,0835 - 0950,"Zion, Benjamin",,14,0,14,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,15090,CHEM 344-L01,CHEM,344,Laboratory,,LS,CHEM,LAB,0,F,0835 - 1205,"Zion, Benjamin",,7,0,7,0,Mies,WH-208,103,22-AUG-22 to 10-DEC-22
+Open,11757,CHEM 344-L02,CHEM,344,Laboratory,,LS,CHEM,LAB,0,M,1700 - 2030,"Zion, Benjamin",,7,0,7,0,Mies,WH-208,103,22-AUG-22 to 10-DEC-22
+Open,11482,CHEM 415-01,CHEM,415,Inorganic Chemistry,,LS,CHEM,LEC,3,MW,1000 - 1115,"Mao, Yuanbing",,13,0,13,0,Mies,SB-107,29,22-AUG-22 to 10-DEC-22
+Open,11482,CHEM 415-01,CHEM,415,Inorganic Chemistry,,LS,CHEM,LEC,3,F,1350 - 1505,"Mao, Yuanbing",,13,0,13,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15091,CHEM 438-01,CHEM,438,Physical Biochemistry,9U,LS,CHEM,LEC,3,TR,0835 - 0950,"Wang, Rong",,20,0,20,0,Mies,SB-201,29,22-AUG-22 to 10-DEC-22
+Open,12040,CHEM 450-110,CHEM,450,Introduction to Research,,LS,CHEM,LAB,3,, - ,"Elsaidi, Sameh",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10709,CHEM 450-127,CHEM,450,Introduction to Research,,LS,CHEM,LAB,3,, - ,"Khan, M. Ishaque",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11568,CHEM 450-147,CHEM,450,Introduction to Research,,LS,CHEM,LAB,3,, - ,"Minh, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10546,CHEM 450-154,CHEM,450,Introduction to Research,,LS,CHEM,LAB,3,, - ,"Mandal, Braja",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11166,CHEM 450-162,CHEM,450,Introduction to Research,,LS,CHEM,LAB,3,, - ,"Wang, Rong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10050,CHEM 450-167,CHEM,450,Introduction to Research,,LS,CHEM,LAB,3,, - ,"Chong, Hyun-Soon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12049,CHEM 450-194,CHEM,450,Introduction to Research,,LS,CHEM,LAB,3,, - ,"Hock, Adam",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14788,CHEM 450-196,CHEM,450,Introduction to Research,,LS,CHEM,LAB,3,, - ,"Mao, Yuanbing",,5,0,5,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10651,CHEM 455-01,CHEM,455,Advanced Organic Chemistry,,LS,CHEM,LEC,3,MW,1515 - 1630,"Chong, Hyun-Soon",,20,0,20,0,Mies,SB-204,29,22-AUG-22 to 10-DEC-22
+Open,15092,CHEM 456-01,CHEM,456,Computational Biochem/Drug Des,,LS,CHEM,LEC,3,MW,1125 - 1240,"Minh, David",,15,0,15,0,Mies,SB-107,29,22-AUG-22 to 10-DEC-22
+Open,15093,CHEM 463-01,CHEM,463,Analytical Method Develop Lab,,LS,CHEM,LEC,3,T,1350 - 1505,"Guan, Xiyun",,15,0,15,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,15094,CHEM 463-L01,CHEM,463,Analytical Method Develop Lab,,LS,CHEM,LAB,3,R,0935 - 1240,"Guan, Xiyun",,15,0,15,0,Mies,WH-208,103,22-AUG-22 to 10-DEC-22
+Open,15094,CHEM 463-L01,CHEM,463,Analytical Method Develop Lab,,LS,CHEM,LAB,3,R,1350 - 1755,"Guan, Xiyun",,15,0,15,0,Mies,WH-208,103,22-AUG-22 to 10-DEC-22
+Open,10051,CHEM 485-01,CHEM,485,Chemistry Colloquium,4Y,LS,CHEM,SEM,1,T,1515 - 1630,"Hock, Adam",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12041,CHEM 487-110,CHEM,487,Senior Thesis in Chemistry,,LS,CHEM,IND,4,, - ,"Ayitou, Anoklase",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11747,CHEM 487-147,CHEM,487,Senior Thesis in Chemistry,,LS,CHEM,IND,4,, - ,"Minh, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11748,CHEM 487-162,CHEM,487,Senior Thesis in Chemistry,,LS,CHEM,IND,4,, - ,"Wang, Rong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12348,CHEM 487-173,CHEM,487,Senior Thesis in Chemistry,,LS,CHEM,LAB,4,, - ,"Rogachev, Andrey",,1,0,1,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11342,CHEM 487-192,CHEM,487,Senior Thesis in Chemistry,,LS,CHEM,IND,4,, - ,"Guan, Xiyun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12042,CHEM 497-110,CHEM,497,Special Projects,,LS,CHEM,IND,6,, - ,"Ayitou, Anoklase",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10695,CHEM 497-167,CHEM,497,Special Projects,,LS,CHEM,IND,6,, - ,"Chong, Hyun-Soon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11425,CHEM 497-192,CHEM,497,Special Projects,,LS,CHEM,IND,6,, - ,"Guan, Xiyun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12174,CHEM 503-01,CHEM,503,Survey of Analytical Chemistry,,LS,CHEM,LEC,3,TR,1700 - 1815,"Guan, Xiyun",,11,0,11,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,10055,CHEM 505-01,CHEM,505,Spectroscopic Methods I,,LS,CHEM,LEC,3,, - ,"Nguyen, Diep",,25,0,25,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15095,CHEM 508-01,CHEM,508,Analytical Methods Development,,LS,CHEM,LEC,2,, - ,"Cwik, Michael",,25,0,25,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15096,CHEM 518-01,CHEM,518,Understanding ICH Guidelines,,LS,CHEM,LEC,3,, - ,"Huynh-Ba, Kim",,15,0,15,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14599,CHEM 521-01,CHEM,521,Structural Inorg/Material Chem,,LS,CHEM,LEC,3,MW,1350 - 1505,"Khan, M. Ishaque",,20,0,20,0,Mies,SB-204,29,22-AUG-22 to 10-DEC-22
+Open,15097,CHEM 521-02,CHEM,521,Structural Inorg/Material Chem,,LS,CHEM,LEC,3,, - ,"Khan, M. Ishaque",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14912,CHEM 526-L01,CHEM,526,Graduate Chemistry Laboratory,,LS,CHEM,LAB,0,R,0805 - 1210,"Khan, M. Ishaque",,1,0,1,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14912,CHEM 526-L01,CHEM,526,Graduate Chemistry Laboratory,,LS,CHEM,LAB,0,R,1400 - 1720,"Khan, M. Ishaque",,1,0,1,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15099,CHEM 538-01,CHEM,538,Physical Biochemistry,9U,LS,CHEM,LEC,3,TR,0835 - 0950,"Wang, Rong",,20,0,20,0,Mies,SB-201,29,22-AUG-22 to 10-DEC-22
+Open,15098,CHEM 542-01,CHEM,542,Polymer Charact & Analysis,,LS,CHEM,LEC,3,, - ,"Nguyen, Diep",,15,0,15,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12043,CHEM 560-110,CHEM,560,Advanced Chemistry Projects,,LS,CHEM,IND,4,, - ,"Ayitou, Anoklase",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11147,CHEM 560-127,CHEM,560,Advanced Chemistry Projects,,LS,CHEM,LAB,4,, - ,"Khan, M. Ishaque",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12037,CHEM 560-147,CHEM,560,Advanced Chemistry Projects,,LS,CHEM,IND,4,, - ,"Minh, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11160,CHEM 560-154,CHEM,560,Advanced Chemistry Projects,,LS,CHEM,LAB,4,, - ,"Mandal, Braja",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10692,CHEM 560-162,CHEM,560,Advanced Chemistry Projects,,LS,CHEM,LAB,4,, - ,"Wang, Rong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10921,CHEM 560-167,CHEM,560,Advanced Chemistry Projects,,LS,CHEM,LAB,4,, - ,"Chong, Hyun-Soon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11583,CHEM 560-173,CHEM,560,Advanced Chemistry Projects,,LS,CHEM,LAB,4,, - ,"Rogachev, Andrey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11337,CHEM 560-192,CHEM,560,Advanced Chemistry Projects,,LS,CHEM,LAB,4,, - ,"Guan, Xiyun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11050,CHEM 560-194,CHEM,560,Advanced Chemistry Projects,,LS,CHEM,LAB,4,, - ,"Hock, Adam",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14349,CHEM 560-196,CHEM,560,Advanced Chemistry Projects,,LS,CHEM,IND,4,, - ,"Mao, Yuanbing",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13495,CHEM 561-01,CHEM,561,Laboratory Rotations,,LS,CHEM,IND,3,, - ,"Wang, Rong",,15,0,15,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10061,CHEM 584-01,CHEM,584,Graduate Seminar in Chemistry,1R,LS,CHEM,SEM,1,M,1515 - 1630,"Hock, Adam",,10,0,10,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,10052,CHEM 585-01,CHEM,585,Chemistry Colloquium,4Y,LS,CHEM,SEM,1,T,1515 - 1630,"Hock, Adam",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12044,CHEM 591-110,CHEM,591,Research and Thesis M.S.,,LS,CHEM,IND,20,, - ,"Ayitou, Anoklase",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10548,CHEM 591-127,CHEM,591,Research and Thesis M.S.,,LS,CHEM,IND,20,, - ,"Khan, M. Ishaque",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11573,CHEM 591-147,CHEM,591,Research and Thesis M.S.,,LS,CHEM,IND,20,, - ,"Minh, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10549,CHEM 591-154,CHEM,591,Research and Thesis M.S.,,LS,CHEM,IND,20,, - ,"Mandal, Braja",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10550,CHEM 591-162,CHEM,591,Research and Thesis M.S.,,LS,CHEM,IND,20,, - ,"Wang, Rong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10551,CHEM 591-167,CHEM,591,Research and Thesis M.S.,,LS,CHEM,IND,20,, - ,"Chong, Hyun-Soon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11584,CHEM 591-173,CHEM,591,Research and Thesis M.S.,,LS,CHEM,IND,20,, - ,"Rogachev, Andrey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11333,CHEM 591-192,CHEM,591,Research and Thesis M.S.,,LS,CHEM,IND,20,, - ,"Guan, Xiyun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11157,CHEM 591-194,CHEM,591,Research and Thesis M.S.,,LS,CHEM,IND,20,, - ,"Hock, Adam",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11332,CHEM 597-01,CHEM,597,Organic Chemistry II,07,LS,CHEM,LEC,3,MW,1125 - 1240,"Chong, Hyun-Soon",,6,0,6,0,Internet,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,11441,CHEM 597-02,CHEM,597,Physical Chemistry II,5Y,LS,CHEM,LEC,3,MW,0835 - 0950,"Zion, Benjamin",,5,0,5,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,12045,CHEM 597-110,CHEM,597,Reading and Special Problems,,LS,CHEM,IND,20,, - ,"Ayitou, Anoklase",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11152,CHEM 597-154,CHEM,597,Reading and Special Problems,,LS,CHEM,IND,20,, - ,"Mandal, Braja",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10657,CHEM 597-162,CHEM,597,Reading and Special Problems,,LS,CHEM,IND,20,, - ,"Wang, Rong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10922,CHEM 597-167,CHEM,597,Reading and Special Problems,,LS,CHEM,IND,20,, - ,"Chong, Hyun-Soon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11585,CHEM 597-173,CHEM,597,Reading and Special Problems,,LS,CHEM,IND,20,, - ,"Rogachev, Andrey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11618,CHEM 597-192,CHEM,597,Reading and Special Problems,,LS,CHEM,IND,20,, - ,"Guan, Xiyun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11045,CHEM 597-194,CHEM,597,Reading and Special Problems,,LS,CHEM,IND,20,, - ,"Hock, Adam",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10062,CHEM 684-01,CHEM,684,Graduate Seminars in Chemistry,1R,LS,CHEM,SEM,1,M,1515 - 1630,"Hock, Adam",,10,0,10,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,10053,CHEM 685-01,CHEM,685,Chemistry Colloquium,4Y,LS,CHEM,SEM,1,T,1515 - 1630,"Hock, Adam",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12046,CHEM 691-110,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Ayitou, Anoklase",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11762,CHEM 691-125,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Segre, Carlo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10552,CHEM 691-127,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Khan, M. Ishaque",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11821,CHEM 691-147,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Minh, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10553,CHEM 691-154,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Mandal, Braja",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12013,CHEM 691-159,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Wereszczynski, Jeffery",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10554,CHEM 691-162,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Wang, Rong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10555,CHEM 691-167,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Chong, Hyun-Soon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11763,CHEM 691-173,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Rogachev, Andrey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11611,CHEM 691-192,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Guan, Xiyun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11297,CHEM 691-194,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Hock, Adam",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13638,CHEM 691-196,CHEM,691,Research and Thesis Ph.D.,,LS,CHEM,IND,20,, - ,"Mao, Yuanbing",,5,0,5,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10257,CS 100-01,CS,100,Intro to the Profession,,CC,CSCI,LEC,2,F,1350 - 1505,"Bauer, Matthew",Michael K. Lee,160,0,160,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,12829,CS 100-L01,CS,100,Laboratory,,CC,CSCI,LAB,0,M,1350 - 1505,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,12830,CS 100-L02,CS,100,Laboratory,,CC,CSCI,LAB,0,M,1515 - 1630,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,12831,CS 100-L03,CS,100,Laboratory,,CC,CSCI,LAB,0,M,1700 - 1815,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,12832,CS 100-L04,CS,100,Laboratory,,CC,CSCI,LAB,0,M,1825 - 1940,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,12833,CS 100-L05,CS,100,Laboratory,,CC,CSCI,LAB,0,T,1350 - 1505,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,12834,CS 100-L06,CS,100,Laboratory,,CC,CSCI,LAB,0,T,1515 - 1630,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,12835,CS 100-L07,CS,100,Laboratory,,CC,CSCI,LAB,0,T,1700 - 1815,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,12836,CS 100-L08,CS,100,Laboratory,,CC,CSCI,LAB,0,T,1825 - 1940,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,13770,CS 100-L09,CS,100,Laboratory,,CC,CSCI,LAB,0,W,1350 - 1505,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,13771,CS 100-L10,CS,100,Laboratory,,CC,CSCI,LAB,0,W,1515 - 1630,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,13772,CS 100-L11,CS,100,Laboratory,,CC,CSCI,LAB,0,W,1700 - 1815,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,14487,CS 100-L12,CS,100,Laboratory,,CC,CSCI,LAB,0,W,1825 - 1940,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,15100,CS 100-L13,CS,100,Laboratory,,CC,CSCI,LAB,0,R,1350 - 1505,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,15101,CS 100-L14,CS,100,Laboratory,,CC,CSCI,LAB,0,R,1515 - 1630,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,15102,CS 100-L15,CS,100,Laboratory,,CC,CSCI,LAB,0,R,1700 - 1815,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,15103,CS 100-L16,CS,100,Laboratory,,CC,CSCI,LAB,0,R,1825 - 1940,"Bauer, Matthew",Michael K. Lee,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,13774,CS 104-01,CS,104,Intro to Comp Prgrm for Engrs,,CC,CSCI,LEC,2,MW,0900 - 0950,"Hanrath, Jon",,60,0,60,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,13775,CS 104-L01,CS,104,Laboratory,,CC,CSCI,LAB,0,F,0900 - 0950,"Hanrath, Jon",,10,0,10,0,Mies,AM-218,27,22-AUG-22 to 10-DEC-22
+Open,13776,CS 104-L02,CS,104,Laboratory,,CC,CSCI,LAB,0,F,0900 - 0950,"Hanrath, Jon",,10,0,10,0,Mies,SH-237,29,22-AUG-22 to 10-DEC-22
+Open,13777,CS 104-L03,CS,104,Laboratory,,CC,CSCI,LAB,0,F,0900 - 0950,"Hanrath, Jon",,10,0,10,0,Mies,SB-112F,21,22-AUG-22 to 10-DEC-22
+Open,13778,CS 105-01,CS,105,Intro to Computer Programming,,CC,CSCI,LEC,2,MW,1125 - 1215,"Hanrath, Jon",,60,0,60,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,13779,CS 105-L01,CS,105,Laboratory,,CC,CSCI,LAB,0,F,1125 - 1215,"Hanrath, Jon",,40,0,40,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,13780,CS 105-L02,CS,105,Laboratory,,CC,CSCI,LAB,0,F,1125 - 1215,"Hanrath, Jon",,20,0,20,0,Mies,SH-237,29,22-AUG-22 to 10-DEC-22
+Open,13781,CS 115-01,CS,115,Object-Oriented Programming I,,CC,CSCI,LEC,2,MW,1000 - 1050,"Bauer, Matthew",,40,0,40,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,13782,CS 115-02,CS,115,Object-Oriented Programming I,,CC,CSCI,LEC,2,TR,1350 - 1440,"Dzikowski, Jacek",,40,0,40,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,13785,CS 115-03,CS,115,Object-Oriented Programming I,,CC,CSCI,LEC,2,W,1700 - 1840,,,40,0,40,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,13786,CS 115-L01,CS,115,Laboratory,,CC,CSCI,LAB,0,F,1000 - 1050,"Bauer, Matthew",,10,0,10,0,Mies,SB-112J,45,22-AUG-22 to 10-DEC-22
+Open,13787,CS 115-L02,CS,115,Laboratory,,CC,CSCI,LAB,0,F,1000 - 1050,"Bauer, Matthew",,10,0,10,0,Mies,SB-112E,21,22-AUG-22 to 10-DEC-22
+Open,13789,CS 115-L04,CS,115,Laboratory,,CC,CSCI,LAB,0,W,1350 - 1440,"Dzikowski, Jacek",,10,0,10,0,Mies,SB-112J,45,22-AUG-22 to 10-DEC-22
+Open,14493,CS 115-L05,CS,115,Laboratory,,CC,CSCI,LAB,0,W,1350 - 1440,"Dzikowski, Jacek",,10,0,10,0,Mies,SB-112E,21,22-AUG-22 to 10-DEC-22
+Open,13791,CS 115-L07,CS,115,Laboratory,,CC,CSCI,LAB,0,W,1850 - 1940,,,10,0,10,0,Mies,SB-112J,45,22-AUG-22 to 10-DEC-22
+Open,15104,CS 115-L08,CS,115,Laboratory,,CC,CSCI,LAB,0,W,1850 - 1940,,,10,0,10,0,Mies,SB-112E,21,22-AUG-22 to 10-DEC-22
+Open,10269,CS 116-01,CS,116,Object-Oriented Programming II,,CC,CSCI,LEC,2,TR,1515 - 1605,"Dzikowski, Jacek",,40,0,40,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,11837,CS 116-L01,CS,116,Laboratory,,CC,CSCI,LAB,0,W,1515 - 1605,"Dzikowski, Jacek",,40,0,40,0,Mies,SB-112J,45,22-AUG-22 to 10-DEC-22
+Open,10270,CS 201-01,CS,201,Accelerated Intro to Cmptr Sci,,CC,CSCI,LEC,4,MW,1700 - 1815,"Boliske, Dylan",,80,0,80,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,11659,CS 201-02,CS,201,Accelerated Intro to Cmptr Sci,,CC,CSCI,LEC,4,TR,1350 - 1505,"Hood, Dennis",,20,0,20,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,11838,CS 201-03,CS,201,Accelerated Intro to Cmptr Sci,,CC,CSCI,LEC,4,, - ,"Hood, Dennis",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11327,CS 201-L01,CS,201,Laboratory,,CC,CSCI,LAB,0,F,1700 - 1840,"Boliske, Dylan",,20,0,20,0,Mies,SB-112J,45,22-AUG-22 to 10-DEC-22
+Open,14500,CS 201-L02,CS,201,Laboratory,,CC,CSCI,LAB,0,F,1700 - 1840,"Boliske, Dylan",,20,0,20,0,Mies,SB-112E,21,22-AUG-22 to 10-DEC-22
+Open,12415,CS 201-L03,CS,201,Laboratory,,CC,CSCI,LAB,0,F,1700 - 1840,"Boliske, Dylan",,20,0,20,0,Mies,SB-112F,21,22-AUG-22 to 10-DEC-22
+Open,14252,CS 201-L05,CS,201,Accelerated Intro to Cmptr Sci,,CC,CSCI,LAB,0,M,1325 - 1505,"Hood, Dennis",,20,0,20,0,Mies,SB-112J,45,22-AUG-22 to 10-DEC-22
+Open,10273,CS 330-01,CS,330,Discrete Structures,,CC,CSCI,LEC,3,T,1825 - 2105,"Bistriceanu, Virgil",,50,0,50,0,Mies,RE-104,152,22-AUG-22 to 10-DEC-22
+Open,11839,CS 330-R01,CS,330,Discrete Structures,,CC,CSCI,REC,0,R,1825 - 1915,"Bistriceanu, Virgil",,40,0,40,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10274,CS 331-01,CS,331,Data Structures and Algorithms,,CC,CSCI,LEC,3,MW,0835 - 0950,"Bauer, Matthew",,60,0,60,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,15106,CS 331-02,CS,331,Data Structures and Algorithms,,CC,CSCI,LEC,3,TR,1700 - 1815,"Boliske, Dylan",,60,0,60,0,Mies,RE-104,152,22-AUG-22 to 10-DEC-22
+Open,10275,CS 331-L01,CS,331,Laboratory,,CC,CSCI,LAB,0,F,0900 - 0950,"Bauer, Matthew",,10,0,10,0,Mies,SB-112J,45,22-AUG-22 to 10-DEC-22
+Open,11480,CS 331-L02,CS,331,Laboratory,,CC,CSCI,LAB,0,F,0900 - 0950,"Bauer, Matthew",,10,0,10,0,Mies,SB-112E,21,22-AUG-22 to 10-DEC-22
+Open,12416,CS 331-L03,CS,331,Laboratory,,CC,CSCI,LAB,0,F,0900 - 0950,"Bauer, Matthew",,10,0,10,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,15107,CS 331-L05,CS,331,Laboratory,,CC,CSCI,LAB,0,W,1700 - 1750,"Boliske, Dylan",,10,0,10,0,Mies,SB-112J,45,22-AUG-22 to 10-DEC-22
+Open,15108,CS 331-L06,CS,331,Laboratory,,CC,CSCI,LAB,0,W,1700 - 1750,"Boliske, Dylan",,10,0,10,0,Mies,SB-112E,21,22-AUG-22 to 10-DEC-22
+Open,15109,CS 331-L07,CS,331,Laboratory,,CC,CSCI,LAB,0,W,1700 - 1750,"Boliske, Dylan",,10,0,10,0,Mies,SB-112F,21,22-AUG-22 to 10-DEC-22
+Open,10276,CS 350-01,CS,350,Cmptr Org&Asmbly Lang Prgmmg,,CC,CSCI,LEC,3,MW,1125 - 1240,"Yao, Lan",,60,0,60,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,10278,CS 350-L01,CS,350,Laboratory,,CC,CSCI,LAB,0,F,1125 - 1215,"Yao, Lan",,20,0,20,0,Mies,SB-112J,45,22-AUG-22 to 10-DEC-22
+Open,11660,CS 350-L02,CS,350,Laboratory,,CC,CSCI,LAB,0,F,1125 - 1215,"Yao, Lan",,20,0,20,0,Mies,SB-112E,21,22-AUG-22 to 10-DEC-22
+Open,14506,CS 350-L03,CS,350,Laboratory,,CC,CSCI,LAB,0,F,1125 - 1215,"Yao, Lan",,20,0,20,0,Mies,SB-112F,21,22-AUG-22 to 10-DEC-22
+Open,10279,CS 351-01,CS,351,Systems Programming,,CC,CSCI,LEC,3,TR,0835 - 0950,"Sultana, Nik",,60,0,60,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,14509,CS 351-L01,CS,351,Laboratory,,CC,CSCI,LAB,0,M,0900 - 0950,"Sultana, Nik",,20,0,20,0,Mies,SB-112J,45,22-AUG-22 to 10-DEC-22
+Open,14510,CS 351-L02,CS,351,Laboratory,,CC,CSCI,B,0,M,0900 - 0950,"Sultana, Nik",,10,0,10,0,Mies,SB-112E,21,22-AUG-22 to 10-DEC-22
+Open,14511,CS 351-L03,CS,351,Laboratory,,CC,CSCI,B,0,M,0900 - 0950,"Sultana, Nik",,10,0,10,0,Mies,SB-112F,21,22-AUG-22 to 10-DEC-22
+Open,10316,CS 401-01,CS,401,Intro to Advanced Studies I,,CC,CSCI,LEC,3,W,1515 - 1655,"Choi, Michael",,20,0,20,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,10318,CS 401-02,CS,401,Intro to Advanced Studies I,,CC,CSCI,B,3,, - ,"Choi, Michael",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11840,CS 401-L01,CS,401,Laboratory,,CC,CSCI,LAB,0,W,1700 - 1840,"Choi, Michael",,20,0,20,0,Mies,SH-237,29,22-AUG-22 to 10-DEC-22
+Open,10328,CS 402-01,CS,402,Intro to Advnd Studies II,,CC,CSCI,LEC,3,M,1825 - 2005,"Bistriceanu, Virgil",,20,0,20,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,10952,CS 402-02,CS,402,Intro to Advnd Studies II,,CC,CSCI,B,3,, - ,"Bistriceanu, Virgil",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14516,CS 402-L01,CS,402,Laboratory,,CC,CSCI,LAB,0,R,1825 - 2005,"Bistriceanu, Virgil",,20,0,20,0,Mies,SB-112E,21,22-AUG-22 to 10-DEC-22
+Open,11399,CS 422-01,CS,422,Data Mining,,CC,CSCI,LEC,3,R,1825 - 2105,"Gurbani, Vijay",,30,0,30,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,11509,CS 422-02,CS,422,Data Mining,,CC,CSCI,LEC,3,, - ,"Gurbani, Vijay",,15,0,15,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12023,CS 422-03,CS,422,Data Mining,,CC,CSCI,LEC,3,, - ,,,40,0,40,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12062,CS 425-01,CS,425,Database Organization,,CC,CSCI,LEC,3,MW,1000 - 1115,"Glavic, Boris",,70,0,70,0,Mies,PH-131,196,22-AUG-22 to 10-DEC-22
+Open,10332,CS 425-03,CS,425,Database Organization,,CC,CSCI,LEC,3,MW,1125 - 1240,"Elmehdwi, Yousef",,40,0,40,0,Mies,SB-225,29,22-AUG-22 to 10-DEC-22
+Open,14318,CS 425-04,CS,425,Database Organization,,CC,CSCI,LEC,3,, - ,"Elmehdwi, Yousef",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14519,CS 425-05,CS,425,Database Organization,,CC,CSCI,LEC,3,, - ,,,30,0,30,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12025,CS 430-01,CS,430,Introduction to Algorithms,,CC,CSCI,LEC,3,TR,1350 - 1505,"Calinescu, Gruia",,100,0,100,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,10333,CS 430-04,CS,430,Introduction to Algorithms,,CC,CSCI,LEC,3,TR,1000 - 1115,"Chlebus, Edward",,60,0,60,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,14523,CS 430-05,CS,430,Introduction to Algorithms,,CC,CSCI,B,3,, - ,"Chlebus, Edward",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15110,CS 430-06,CS,430,Introduction to Algorithms,,CC,CSCI,,3,, - ,,,50,0,50,0,Internet,-,0, to 
+Open,11843,CS 430-R01,CS,430,Recitation,,CC,CSCI,REC,0,F,1350 - 1440,"Calinescu, Gruia",,25,0,25,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12026,CS 430-R02,CS,430,Recitation,,CC,CSCI,REC,0,F,1515 - 1605,"Calinescu, Gruia",,25,0,25,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14520,CS 430-R03,CS,430,Recitation,,CC,CSCI,REC,0,F,1700 - 1750,"Calinescu, Gruia",,25,0,25,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14521,CS 430-R04,CS,430,Recitation,,CC,CSCI,REC,0,F,1000 - 1050,"Chlebus, Edward",,60,0,60,0,Mies,RE-104,152,22-AUG-22 to 10-DEC-22
+Open,14522,CS 430-R05,CS,430,Recitation,,CC,CSCI,REC,0,, - ,"Chlebus, Edward",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11844,CS 440-01,CS,440,Prgmng Languages Translators,,CC,CSCI,LEC,3,WF,1515 - 1630,"Lee, Michael",,60,0,60,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,10335,CS 440-02,CS,440,Prgmng Languages Translators,,CC,CSCI,LEC,3,, - ,"Lee, Michael",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11350,CS 442-01,CS,442,Mobile Application Development,,CC,CSCI,LEC,3,T,1700 - 1940,"Hield, Christopher",,40,0,40,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,12417,CS 442-02,CS,442,Mobile Application Development,,CC,CSCI,LEC,3,, - ,"Hield, Christopher",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15111,CS 443-01,CS,443,Compiler Construction,,CC,CSCI,LEC,3,TR,1000 - 1115,"Muller, Stefan",,20,0,20,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,15112,CS 443-02,CS,443,Compiler Construction,,CC,CSCI,LEC,3,, - ,"Muller, Stefan",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12419,CS 450-01,CS,450,Operating Systems,,CC,CSCI,LEC,3,MW,1350 - 1505,"Hale, Kyle",,60,0,60,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,14105,CS 450-03,CS,450,Operating Systems,,CC,CSCI,LEC,3,TR,1125 - 1240,"Leung, Wu-Hon",,60,0,60,0,Mies,WH-113,267,22-AUG-22 to 10-DEC-22
+Open,10339,CS 450-04,CS,450,Operating Systems,,CC,CSCI,LEC,3,, - ,"Leung, Wu-Hon",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15113,CS 451-01,CS,451,Parallel/Distributed Computing,,CC,CSCI,LEC,3,TR,1350 - 1505,"Lan, Zhiling",,30,0,30,0,Mies,WH-113,267,22-AUG-22 to 10-DEC-22
+Open,15114,CS 451-02,CS,451,Parallel/Distributed Computing,,CC,CSCI,LEC,3,, - ,"Lan, Zhiling",,15,0,15,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10340,CS 458-01,CS,458,Intro to Information Security,,CC,CSCI,LEC,3,MW,1350 - 1505,"Elmehdwi, Yousef",,60,0,60,0,Mies,PH-131,196,22-AUG-22 to 10-DEC-22
+Open,10341,CS 458-02,CS,458,Intro to Information Security,,CC,CSCI,LEC,3,, - ,"Elmehdwi, Yousef",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15115,CS 470-01,CS,470,Computer Architecture,,CC,CSCI,LEC,3,MW,1000 - 1115,"Wang, Rujia",,40,0,40,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,15116,CS 470-02,CS,470,Computer Architecture,,CC,CSCI,LEC,3,, - ,"Wang, Rujia",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12423,CS 480-01,CS,480,Introduction to Artificial Int,,CC,CSCI,LEC,3,TR,1125 - 1240,"Dzikowski, Jacek",,60,0,60,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,12424,CS 480-02,CS,480,Introduction to Artificial Int,,CC,CSCI,LEC,3,, - ,"Dzikowski, Jacek",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14320,CS 480-03,CS,480,Introduction to Artificial Int,,CC,CSCI,LEC,3,, - ,,,50,0,50,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,13929,CS 484-01,CS,484,Intro to Machine Learning,,CC,CSCI,LEC,3,M,1825 - 2105,"Lam, Ming Long",,40,0,40,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,13930,CS 484-02,CS,484,Intro to Machine Learning,,CC,CSCI,LEC,3,, - ,"Lam, Ming Long",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10342,CS 485-01,CS,485,Computers and Society,,CC,CSCI,LEC,3,MW,1000 - 1115,"Hanrath, Jon",,20,0,20,0,Mies,SB-108,30,22-AUG-22 to 10-DEC-22
+Open,10343,CS 487-01,CS,487,Software Engineering,,CC,CSCI,LEC,3,TR,1515 - 1630,"Hood, Dennis",,60,0,60,0,Mies,SB-104,204,22-AUG-22 to 10-DEC-22
+Open,10344,CS 487-03,CS,487,Software Engineering,,CC,CSCI,LEC,3,TR,1125 - 1240,"Hood, Dennis",,30,0,30,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,14526,CS 487-04,CS,487,Software Engineering,,CC,CSCI,LEC,3,, - ,"Hood, Dennis",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14321,CS 487-05,CS,487,Software Engineering,,CC,CSCI,LEC,3,, - ,,,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12650,CS 491-116,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Lan, Zhiling",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14956,CS 491-128,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Sultana, Nik",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14253,CS 491-144,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Shu, Kai",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14991,CS 491-149,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Dzikowski, Jacek",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14254,CS 491-151,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Muller, Stefan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14957,CS 491-164,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Wang, Binghui",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14255,CS 491-173,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Duan, Yue",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12759,CS 491-188,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Sun, Xian-He",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11041,CS 491-193,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Agam, Gady",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11557,CS 491-194,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Calinescu, Gruia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11156,CS 491-197,CS,491,Undergraduate Research,,CC,CSCI,IND,6,, - ,"Kapoor, Sanjiv",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14790,CS 492-01,CS,492,Intro to Computer Sci Research,,CC,CSCI,LEC,1,M,1515 - 1605,"Hale, Kyle",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15117,CS 495-01,CS,495,Multimedia Networking,0F,CC,CSCI,LEC,3,MW,1700 - 1815,"Davids, Carol",,20,0,20,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,12778,CS 497-105,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Glavic, Boris",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11323,CS 497-112,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Argamon, Shlomo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11021,CS 497-113,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Bauer, Matthew",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11278,CS 497-117,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Leung, Wu-Hon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12376,CS 497-121,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Hale, Kyle",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14958,CS 497-128,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Sultana, Nik",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14256,CS 497-144,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Shu, Kai",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14992,CS 497-149,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Dzikowski, Jacek",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14257,CS 497-151,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Muller, Stefan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11174,CS 497-156,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Raicu, Ioan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14959,CS 497-164,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Wang, Binghui",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14258,CS 497-173,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Duan, Yue",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10663,CS 497-181,CS,497,Special Projects,,CC,CSCI,IND,20,, - ,"Hood, Cynthia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11577,CS 525-01,CS,525,Advanced Database Organization,,CC,CSCI,LEC,3,MW,1515 - 1630,"Elmehdwi, Yousef",,60,0,60,0,Mies,PH-131,196,22-AUG-22 to 10-DEC-22
+Open,11578,CS 525-02,CS,525,Advanced Database Organization,,CC,CSCI,LEC,3,, - ,"Elmehdwi, Yousef",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14322,CS 525-03,CS,525,Advanced Database Organization,,CC,CSCI,LEC,3,, - ,,,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15230,CS 527-01,CS,527,Software Security,,CC,CSCI,LEC,3,TR,0835 - 0950,"Duan, Yue",,20,0,20,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,15231,CS 527-02,CS,527,Software Security,,CC,CSCI,LEC,3,, - ,"Duan, Yue",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11180,CS 535-01,CS,535,Dsgn and Anlys of Algorithms,86,CC,CSCI,LEC,3,T,1825 - 2105,"Wan, Peng-Jun",,50,0,50,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,11182,CS 535-02,CS,535,Dsgn and Anlys of Algorithms,86,CC,CSCI,LEC,3,T,1825 - 2105,"Wan, Peng-Jun",,10,0,10,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,11183,CS 535-03,CS,535,Dsgn and Anlys of Algorithms,,CC,CSCI,LEC,3,, - ,"Wan, Peng-Jun",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14323,CS 535-04,CS,535,Dsgn and Anlys of Algorithms,,CC,CSCI,LEC,3,, - ,,,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10345,CS 536-01,CS,536,Science of Programming,Z8,CC,CSCI,LEC,3,TR,1000 - 1115,"Sasaki, James",,50,0,50,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11847,CS 536-02,CS,536,Science of Programming,Z8,CC,CSCI,LEC,3,TR,1000 - 1115,"Sasaki, James",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10346,CS 536-03,CS,536,Science of Programming,,CC,CSCI,LEC,3,, - ,"Sasaki, James",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15118,CS 539-01,CS,539,Game Theory: Algorithms & Apps,,CC,CSCI,LEC,3,MW,1700 - 1815,"Kapoor, Sanjiv",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15119,CS 539-02,CS,539,Game Theory: Algorithms & Apps,,CC,CSCI,LEC,3,, - ,"Kapoor, Sanjiv",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10347,CS 542-01,CS,542,Computer Netwrks I:Fundamentls,,CC,CSCI,LEC,3,TR,1125 - 1240,"Chlebus, Edward",,60,0,60,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10637,CS 542-02,CS,542,Computer Netwrks I:Fundamentls,,CC,CSCI,LEC,3,, - ,"Chlebus, Edward",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15120,CS 549-01,CS,549,Cryptography,,CC,CSCI,LEC,3,W,1825 - 2105,"Hong, Yuan",,40,0,40,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15121,CS 549-02,CS,549,Cryptography,,CC,CSCI,LEC,3,, - ,"Hong, Yuan",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12065,CS 550-01,CS,550,Advanced Operating Systems,41,CC,CSCI,LEC,3,TR,1515 - 1630,"Sun, Xian-He",,40,0,40,0,Mies,WH-113,267,22-AUG-22 to 10-DEC-22
+Open,12066,CS 550-02,CS,550,Advanced Operating Systems,41,CC,CSCI,LEC,3,TR,1515 - 1630,"Sun, Xian-He",,10,0,10,0,Mies,WH-113,267,22-AUG-22 to 10-DEC-22
+Open,12067,CS 550-03,CS,550,Advanced Operating Systems,,CC,CSCI,LEC,3,, - ,"Sun, Xian-He",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15122,CS 551-01,CS,551,Operating Syst Design&Implemtn,,CC,CSCI,LEC,3,TR,1350 - 1505,"Leung, Wu-Hon",,40,0,40,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15123,CS 551-02,CS,551,Operating Syst Design&Implemtn,,CC,CSCI,LEC,3,, - ,"Leung, Wu-Hon",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15124,CS 553-01,CS,553,Cloud Computing,,CC,CSCI,LEC,3,TR,1125 - 1240,"Raicu, Ioan",,40,0,40,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15125,CS 553-02,CS,553,Cloud Computing,,CC,CSCI,LEC,3,, - ,"Raicu, Ioan",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15126,CS 577-01,CS,577,Deep Learning,,CC,CSCI,LEC,3,TR,1700 - 1815,"Agam, Gady",,60,0,60,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,15127,CS 577-02,CS,577,Deep Learning,,CC,CSCI,LEC,3,, - ,"Agam, Gady",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15280,CS 577-03,CS,577,Deep Learning,,CC,CSCI,,3,, - ,,,20,0,20,0,Internet,-,0, to 
+Open,14541,CS 584-01,CS,584,Machine Learning,,CC,CSCI,LEC,3,WF,1350 - 1505,"Yan, Yan",,60,0,60,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,14542,CS 584-02,CS,584,Machine Learning,,CC,CSCI,LEC,3,, - ,"Yan, Yan",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14543,CS 584-03,CS,584,Machine Learning,,CC,CSCI,LEC,3,, - ,"Bilgic, Mustafa",,40,0,40,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14544,CS 585-01,CS,585,Natural Language Processing,,CC,CSCI,LEC,3,MW,1515 - 1630,"Shu, Kai",,60,0,60,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,14545,CS 585-02,CS,585,Natural Language Processing,,CC,CSCI,LEC,3,, - ,"Shu, Kai",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14979,CS 585-03,CS,585,Natural Language Processing,,CC,CSCI,,3,, - ,,,20,0,20,0,Internet,-,0, to 
+Open,10348,CS 587-01,CS,587,Software Project Management,,CC,CSCI,LEC,3,F,1825 - 2105,"Bader, Atef",,60,0,60,0,Mies,SB-111,60,22-AUG-22 to 10-DEC-22
+Open,10349,CS 587-02,CS,587,Software Project Management,,CC,CSCI,LEC,3,, - ,"Bader, Atef",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14547,CS 589-01,CS,589,Software Testing and Anlys,,CC,CSCI,LEC,3,MW,1700 - 1815,"Korel, Bogdan",,40,0,40,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14548,CS 589-02,CS,589,Software Testing and Anlys,,CC,CSCI,LEC,3,, - ,"Korel, Bogdan",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15281,CS 589-03,CS,589,Software Testing and Anlys,,CC,CSCI,,3,, - ,,,20,0,20,0,Internet,-,0, to 
+Open,11445,CS 591-105,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Glavic, Boris",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10350,CS 591-112,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Argamon, Shlomo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10351,CS 591-116,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Lan, Zhiling",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11031,CS 591-117,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Leung, Wu-Hon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14402,CS 591-121,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Hale, Kyle",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14960,CS 591-128,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Sultana, Nik",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14852,CS 591-130,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Hong, Yuan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14549,CS 591-138,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Yan, Yan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14855,CS 591-140,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Wang, Rujia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14259,CS 591-144,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Shu, Kai",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14260,CS 591-151,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Muller, Stefan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14856,CS 591-156,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Raicu, Ioan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14961,CS 591-164,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Wang, Binghui",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10944,CS 591-167,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Korel, Bogdan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14857,CS 591-171,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Bilgic, Mustafa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14261,CS 591-173,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Duan, Yue",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11129,CS 591-181,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Hood, Cynthia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10352,CS 591-183,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Wan, Peng-Jun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10911,CS 591-188,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Sun, Xian-He",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10930,CS 591-190,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Bader, Atef",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10353,CS 591-193,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Agam, Gady",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11810,CS 591-194,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Calinescu, Gruia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10354,CS 591-197,CS,591,Reseach and Thesis M.S.,,CC,CSCI,IND,20,, - ,"Kapoor, Sanjiv",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10940,CS 594-188,CS,594,Research Problems,,CC,CSCI,IND,20,, - ,"Sun, Xian-He",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12787,CS 594-197,CS,594,Research Problems,,CC,CSCI,IND,20,, - ,"Kapoor, Sanjiv",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11025,CS 595-01,CS,595,Trustworthy Machine Learning,,CC,CSCI,LEC,3,MW,1000 - 1115,"Wang, Binghui",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15128,CS 595-02,CS,595,Trustworthy Machine Learning,,CC,CSCI,LEC,3,, - ,"Wang, Binghui",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14806,CS 595-11,CS,595,Ethics of Data and Algorithms,,CC,CSCI,LEC,3,TR,1350 - 1505,"Hood, Cynthia",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14807,CS 595-12,CS,595,Ethics of Data and Algorithms,,CC,CSCI,LEC,3,, - ,"Hood, Cynthia",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11446,CS 597-105,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Glavic, Boris",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10355,CS 597-112,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Argamon, Shlomo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10357,CS 597-116,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Lan, Zhiling",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10358,CS 597-117,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Leung, Wu-Hon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12053,CS 597-121,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Hale, Kyle",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12538,CS 597-123,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Gurbani, Vijay",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14962,CS 597-128,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Sultana, Nik",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12379,CS 597-130,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Hong, Yuan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14555,CS 597-138,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Yan, Yan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12786,CS 597-140,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Wang, Rujia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14265,CS 597-144,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Shu, Kai",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14266,CS 597-151,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Muller, Stefan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11155,CS 597-156,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Raicu, Ioan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14963,CS 597-164,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Wang, Binghui",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10360,CS 597-167,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Korel, Bogdan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11159,CS 597-171,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Bilgic, Mustafa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14267,CS 597-173,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Duan, Yue",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11165,CS 597-179,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Zhang-Sun, Hong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10361,CS 597-181,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Hood, Cynthia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10362,CS 597-183,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Wan, Peng-Jun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10363,CS 597-188,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Sun, Xian-He",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10931,CS 597-190,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Bader, Atef",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10364,CS 597-193,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Agam, Gady",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10365,CS 597-194,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Calinescu, Gruia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10366,CS 597-197,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Kapoor, Sanjiv",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10367,CS 597-199,CS,597,Reading and Special Problems,,CC,CSCI,IND,20,, - ,"Chlebus, Edward",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11802,CS 691-105,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Glavic, Boris",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10368,CS 691-112,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Argamon, Shlomo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10370,CS 691-116,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Lan, Zhiling",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11811,CS 691-117,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Leung, Wu-Hon",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12777,CS 691-121,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Hale, Kyle",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14964,CS 691-128,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Sultana, Nik",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12380,CS 691-130,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Hong, Yuan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14556,CS 691-138,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Yan, Yan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12869,CS 691-140,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Wang, Rujia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14262,CS 691-144,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Shu, Kai",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14263,CS 691-151,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Muller, Stefan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11273,CS 691-156,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Raicu, Ioan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14965,CS 691-164,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Wang, Binghui",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10372,CS 691-167,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Korel, Bogdan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11426,CS 691-171,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Bilgic, Mustafa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14264,CS 691-173,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Duan, Yue",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10373,CS 691-181,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Hood, Cynthia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10374,CS 691-183,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Wan, Peng-Jun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10375,CS 691-188,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Sun, Xian-He",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10376,CS 691-193,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Agam, Gady",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10377,CS 691-194,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Calinescu, Gruia",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10378,CS 691-197,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Kapoor, Sanjiv",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10379,CS 691-199,CS,691,Research and Thesis Ph.D.,,CC,CSCI,IND,20,, - ,"Chlebus, Edward",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11710,HUM 200-01,HUM,200,Food and Communication,,LS,HUMA,LEC,3,MW,0835 - 0950,"Branson, Qian",,22,0,22,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12143,HUM 200-02,HUM,200,Love in the Ancient World,,LS,HUMA,LEC,3,TR,1125 - 1240,"Zatirka, Brendon",,22,0,22,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12142,HUM 200-03,HUM,200,Love in the Ancient World,,LS,HUMA,LEC,3,TR,1350 - 1505,"Zatirka, Brendon",,22,0,22,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12533,HUM 200-04,HUM,200,Philosophy and Skills,,LS,HUMA,LEC,3,MW,1125 - 1240,"Fang, Ge",,22,0,22,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11523,HUM 200-05,HUM,200,Art & Science,,LS,HUMA,LEC,3,MW,1350 - 1505,"Monnin, Victor",,22,0,22,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11711,HUM 200-06,HUM,200,Dragon Slayers,,LS,HUMA,LEC,3,TR,0835 - 0950,"Seigfried, Karl",,22,0,22,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12891,HUM 200-07,HUM,200,History of Photography,,LS,HUMA,LEC,3,W,1825 - 2105,"Davis, Jenelle",,22,0,22,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11713,HUM 200-08,HUM,200,Dragon Slayers,,LS,HUMA,LEC,3,TR,1950 - 2105,"Seigfried, Karl",,22,0,22,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11521,HUM 200-09,HUM,200,H. G. Wells,,LS,HUMA,LEC,3,MW,1000 - 1115,"Phelps, Renata",,22,0,22,0,Mies,IT-6D6-1,48,22-AUG-22 to 10-DEC-22
+Open,12635,HUM 200-13,HUM,200,Food and Communication,,LS,HUMA,LEC,3,MW,1000 - 1115,"Branson, Qian",,22,0,22,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13688,HUM 202-01,HUM,202,Industrial Culture,,LS,HUMA,LEC,3,TR,1515 - 1630,"Green, Keith",,22,0,22,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14920,HUM 204-01,HUM,204,Age of Darwin,,LS,HUMA,LEC,3,TR,1000 - 1115,"Baszak, Gregor",,22,0,22,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15188,HUM 250-01,HUM,250,Introduction to STS,,LS,HUMA,LEC,3,MW,1515 - 1630,"Monnin, Victor",,22,0,22,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15189,HUM 371-01,HUM,371,Fundamentals of Game Design,,LS,HUMA,LEC,3,MW,1125 - 1240,"Kocurek, Carly",,22,0,22,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14776,HUM 601-01,HUM,601,TA Seminar,,LS,HUMA,SEM,0,TR,1250 - 1340,"McGee, Tracey",,80,0,80,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,10282,MATH 100-01,MATH,100,Introduction to the Profession,,CC,AMAT,LEC,3,MW,1000 - 1115,"Ellis, Robert",,20,0,20,0,Mies,RE-119,30,22-AUG-22 to 10-DEC-22
+Open,10283,MATH 119-01,MATH,119,Geometry for Architects,,CC,AMAT,LEC,3,MWF,0835 - 0950,"Maslanka, David",,40,0,40,0,Mies,RE-258,42,22-AUG-22 to 10-DEC-22
+Open,10284,MATH 119-02,MATH,119,Geometry for Architects,,CC,AMAT,LEC,3,MWF,1000 - 1115,"Maslanka, David",,40,0,40,0,Mies,RE-258,42,22-AUG-22 to 10-DEC-22
+Open,14564,MATH 131-01,MATH,131,Mathematics for Sustainability,,CC,AMAT,LEC,3,MW,1350 - 1505,"Weening, Fred",,28,0,28,0,Mies,RE-241,30,22-AUG-22 to 10-DEC-22
+Open,10285,MATH 148-01,MATH,148,Preparation for Calculus,,CC,AMAT,LEC,4,MWF,0835 - 0950,"Zazi, George",,30,0,30,0,Mies,RE-119,30,22-AUG-22 to 10-DEC-22
+Open,11070,MATH 148-02,MATH,148,Preparation for Calculus,,CC,AMAT,LEC,4,MWF,1000 - 1115,"Alhejoj, Kawkab",,30,0,30,0,Mies,RE-121,30,22-AUG-22 to 10-DEC-22
+Open,10286,MATH 148-03,MATH,148,Preparation for Calculus,,CC,AMAT,LEC,4,MWF,1125 - 1240,"Alhejoj, Kawkab",,30,0,30,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12670,MATH 148-04,MATH,148,Preparation for Calculus,,CC,AMAT,LEC,4,MWF,1350 - 1505,"Popovic, Gorjana",,31,0,31,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12749,MATH 148-05,MATH,148,Preparation for Calculus,,CC,AMAT,LEC,4,MWF,1000 - 1115,"Popovic, Gorjana",,30,0,30,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10303,MATH 151-01,MATH,151,Calculus I,,CC,AMAT,LAB,5,R,0835 - 0950,,,30,0,30,0,Mies,IT-14C7-1,36,22-AUG-22 to 10-DEC-22
+Open,10303,MATH 151-01,MATH,151,Calculus I,,CC,AMAT,LEC,5,MWF,0835 - 0950,,,30,0,30,0,Mies,IT-6C7-1,46,22-AUG-22 to 10-DEC-22
+Open,10304,MATH 151-02,MATH,151,Calculus I,,CC,AMAT,LEC,5,MWF,1000 - 1115,"Zazi, George",,30,0,30,0,Mies,IT-6C7-1,46,22-AUG-22 to 10-DEC-22
+Open,10304,MATH 151-02,MATH,151,Calculus I,,CC,AMAT,LAB,5,R,1125 - 1240,"Zazi, George",,30,0,30,0,Mies,IT-14C7-1,36,22-AUG-22 to 10-DEC-22
+Open,10305,MATH 151-03,MATH,151,Calculus I,,CC,AMAT,LEC,5,MWF,1000 - 1115,"Stasi, Despina",,30,0,30,0,Mies,HH-010,40,22-AUG-22 to 10-DEC-22
+Open,10305,MATH 151-03,MATH,151,Calculus I,,CC,AMAT,LAB,5,T,1000 - 1115,"Stasi, Despina",,30,0,30,0,Mies,IT-14C7-1,36,22-AUG-22 to 10-DEC-22
+Open,10306,MATH 151-04,MATH,151,Calculus I,,CC,AMAT,LEC,5,MWF,1350 - 1505,,,30,0,30,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10306,MATH 151-04,MATH,151,Calculus I,,CC,AMAT,LAB,5,R,1000 - 1115,,,30,0,30,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10307,MATH 151-05,MATH,151,Calculus I,,CC,AMAT,LAB,5,F,1350 - 1505,"Stasi, Despina",,30,0,30,0,Mies,IT-14C5-1,40,22-AUG-22 to 10-DEC-22
+Open,10307,MATH 151-05,MATH,151,Calculus I,,CC,AMAT,LEC,5,MWF,1125 - 1240,"Stasi, Despina",,30,0,30,0,Mies,HH-010,40,22-AUG-22 to 10-DEC-22
+Open,10308,MATH 151-06,MATH,151,Calculus I,,CC,AMAT,LEC,5,MWF,1125 - 1240,"Popovic, Gorjana",,30,0,30,0,Mies,IT-6C7-1,46,22-AUG-22 to 10-DEC-22
+Open,10308,MATH 151-06,MATH,151,Calculus I,,CC,AMAT,LAB,5,F,0835 - 0950,"Popovic, Gorjana",,30,0,30,0,Mies,IT-14C7-1,36,22-AUG-22 to 10-DEC-22
+Open,11352,MATH 151-07,MATH,151,Calculus I,,CC,AMAT,LEC,5,MWF,0835 - 0950,,,30,0,30,0,Mies,IT-6D6-1,48,22-AUG-22 to 10-DEC-22
+Open,11352,MATH 151-07,MATH,151,Calculus I,,CC,AMAT,LAB,5,T,0835 - 0950,,,30,0,30,0,Mies,IT-14C7-1,36,22-AUG-22 to 10-DEC-22
+Open,15059,MATH 151-08,MATH,151,Calculus I,,CC,AMAT,LEC,5,MWF,1515 - 1630,,,30,0,30,0,Mies,IT-6C7-1,46,22-AUG-22 to 10-DEC-22
+Open,15059,MATH 151-08,MATH,151,Calculus I,,CC,AMAT,LAB,5,R,1515 - 1630,,,30,0,30,0,Mies,IT-14C7-1,36,22-AUG-22 to 10-DEC-22
+Open,10287,MATH 152-01,MATH,152,Calculus II,,CC,AMAT,LEC,5,MWF,0835 - 0950,"Shive, Joseph",,30,0,30,0,Mies,HH-003,45,22-AUG-22 to 10-DEC-22
+Open,10287,MATH 152-01,MATH,152,Calculus II,,CC,AMAT,LAB,5,T,1515 - 1630,"Shive, Joseph",,30,0,30,0,Mies,IT-14C5-1,40,22-AUG-22 to 10-DEC-22
+Open,10288,MATH 152-02,MATH,152,Calculus II,,CC,AMAT,LEC,5,MWF,1000 - 1115,"Shive, Joseph",,30,0,30,0,Mies,HH-003,45,22-AUG-22 to 10-DEC-22
+Open,10288,MATH 152-02,MATH,152,Calculus II,,CC,AMAT,LAB,5,W,1515 - 1630,"Shive, Joseph",,30,0,30,0,Mies,IT-6D6-1,48,22-AUG-22 to 10-DEC-22
+Open,10289,MATH 152-03,MATH,152,Calculus II,,CC,AMAT,LEC,5,MWF,1000 - 1115,,,32,0,32,0,Mies,HH-005,40,22-AUG-22 to 10-DEC-22
+Open,10289,MATH 152-03,MATH,152,Calculus II,,CC,AMAT,LAB,5,T,1000 - 1115,,,32,0,32,0,Mies,IT-14C5-1,40,22-AUG-22 to 10-DEC-22
+Open,11071,MATH 152-04,MATH,152,Calculus II,,CC,AMAT,LEC,5,MWF,1350 - 1505,"Maslanka, David",,30,0,30,0,Mies,RE-258,42,22-AUG-22 to 10-DEC-22
+Open,11071,MATH 152-04,MATH,152,Calculus II,,CC,AMAT,LAB,5,F,1125 - 1240,"Maslanka, David",,30,0,30,0,Mies,RE-258,42,22-AUG-22 to 10-DEC-22
+Open,10290,MATH 152-05,MATH,152,Calculus II,,CC,AMAT,LAB,5,M,1515 - 1630,,,36,0,36,0,Mies,IT-14C7-1,36,22-AUG-22 to 10-DEC-22
+Open,10290,MATH 152-05,MATH,152,Calculus II,,CC,AMAT,LEC,5,MWF,1125 - 1240,,,36,0,36,0,Mies,HH-003,45,22-AUG-22 to 10-DEC-22
+Open,12621,MATH 225-01,MATH,225,Introductory Statistics,,CC,AMAT,LEC,3,MW,1350 - 1505,"Stasi, Despina",,28,0,28,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10291,MATH 251-01,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,REC,4,T,0835 - 0950,,,39,0,39,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10291,MATH 251-01,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,LEC,4,MWF,1125 - 1240,,,39,0,39,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10294,MATH 251-02,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,LEC,4,MWF,1350 - 1505,"Ong, Kiah",,38,0,38,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10294,MATH 251-02,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,REC,4,F,1125 - 1240,"Ong, Kiah",,38,0,38,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10292,MATH 251-03,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,LEC,4,MW,1515 - 1630,,,38,0,38,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10292,MATH 251-03,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,REC,4,R,1515 - 1630,,,38,0,38,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10292,MATH 251-03,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,LEC,4,F,1350 - 1505,,,38,0,38,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10293,MATH 251-05,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,REC,4,W,1700 - 1815,"Ong, Kiah",,42,0,42,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10293,MATH 251-05,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,LEC,4,TR,1700 - 1845,"Ong, Kiah",,42,0,42,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15060,MATH 251-06,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,REC,4,R,0835 - 0950,"Lubin, Arthur",,42,0,42,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15060,MATH 251-06,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,LEC,4,MWF,1125 - 1240,"Lubin, Arthur",,42,0,42,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12009,MATH 251-07,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,LEC,4,TR,1855 - 2040,"Adler, Andre",,25,0,25,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12009,MATH 251-07,MATH,251,Multivariate & Vector Calculus,,CC,AMAT,REC,4,W,1855 - 2010,"Adler, Andre",,25,0,25,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10295,MATH 252-01,MATH,252,Introduction to Diff Equations,,CC,AMAT,LEC,4,MWF,1125 - 1240,"Pelsmajer, Michael",,36,0,36,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10296,MATH 252-02,MATH,252,Introduction to Diff Equations,,CC,AMAT,LEC,4,MWF,1350 - 1505,,,30,0,30,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15061,MATH 252-03,MATH,252,Introduction to Diff Equations,,CC,AMAT,LEC,4,MW,1515 - 1630,"Ong, Kiah",,30,0,30,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15061,MATH 252-03,MATH,252,Introduction to Diff Equations,,CC,AMAT,LEC,4,F,1125 - 1240,"Ong, Kiah",,30,0,30,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10297,MATH 252-04,MATH,252,Introduction to Diff Equations,,CC,AMAT,LEC,4,MWF,1000 - 1115,"Weening, Fred",,38,0,38,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10298,MATH 252-05,MATH,252,Introduction to Diff Equations,,CC,AMAT,LEC,4,MWF,0835 - 0950,"Weening, Fred",,38,0,38,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12408,MATH 252-06,MATH,252,Introduction to Diff Equations,,CC,AMAT,LEC,4,TR,1700 - 1845,"Attele, Kapila",,39,0,39,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15062,MATH 252-07,MATH,252,Introduction to Diff Equations,,CC,AMAT,LEC,4,MW,1700 - 1845,"Adler, Andre",,25,0,25,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10299,MATH 332-01,MATH,332,Elementary Linear Algebra,,CC,AMAT,LEC,3,MW,1125 - 1240,"Kaul, Hemanshu",,41,0,41,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12797,MATH 332-02,MATH,332,Elementary Linear Algebra,,CC,AMAT,LEC,3,TR,1125 - 1240,"Li, Shuwang",,50,0,50,0,Mies,PH-108,56,22-AUG-22 to 10-DEC-22
+Open,10300,MATH 333-01,MATH,333,Matrix Alg & Complex Variables,,CC,AMAT,LEC,3,MW,1515 - 1630,"Lubin, Arthur",,38,0,38,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10301,MATH 333-02,MATH,333,Matrix Alg & Complex Variables,,CC,AMAT,LEC,3,MW,1855 - 2010,"Attele, Kapila",,38,0,38,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11571,MATH 374-01,MATH,374,Probability/Statistics for ECE,,CC,AMAT,LEC,3,MW,1000 - 1115,"Lubin, Arthur",,38,0,38,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10302,MATH 400-01,MATH,400,Real Analysis,,CC,AMAT,LEC,3,MW,1515 - 1630,"Kaul, Hemanshu",,28,0,28,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15063,MATH 431-01,MATH,431,Computational Algebraic Geom,7P,CC,AMAT,LEC,3,TR,1125 - 1240,"Petrovic, Sonja",,28,0,28,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11808,MATH 474-02,MATH,474,Probability and Statistics,,CC,AMAT,LEC,3,TR,1515 - 1630,"Bielecki, Tomasz",,35,0,35,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14569,MATH 474-03,MATH,474,Probability and Statistics,,CC,AMAT,LEC,3,TR,1350 - 1505,"Cheng, Maggie",,35,0,35,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10310,MATH 475-01,MATH,475,Probability,,CC,AMAT,LEC,3,MW,1000 - 1115,"Nadtochiy, Sergey",,32,0,32,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15004,MATH 475-02,MATH,475,Probability,,CC,AMAT,LEC,3,, - ,"Nadtochiy, Sergey",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10311,MATH 477-01,MATH,477,Numerical Linear Algebra,25,CC,AMAT,LEC,3,TR,1350 - 1505,"Li, Shuwang",,14,0,14,0,Mies,HH-010,40,22-AUG-22 to 10-DEC-22
+Open,11492,MATH 484-01,MATH,484,Regression,4R,CC,AMAT,LEC,3,TR,1000 - 1115,"Kang, Lulu",,14,0,14,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11706,MATH 486-01,MATH,486,Mathematical Modeling I,00,CC,AMAT,LEC,3,WF,1350 - 1505,"Tier, Charles",,17,0,17,0,Mies,PH-108,56,22-AUG-22 to 10-DEC-22
+Open,11477,MATH 491-114,MATH,491,Reading and Research,,CC,AMAT,IND,6,, - ,"Petrovic, Sonja",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11040,MATH 491-115,MATH,491,Reading and Research,,CC,AMAT,IND,6,, - ,"Hickernell, Fred",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12768,MATH 491-133,MATH,491,Reading and Research,,CC,AMAT,IND,6,, - ,"Duan, Jinqiao",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11167,MATH 491-189,MATH,491,Reading and Research,,CC,AMAT,IND,6,, - ,"Kaul, Hemanshu",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12767,MATH 491-198,MATH,491,Reading and Research,,CC,AMAT,IND,6,, - ,"Pelsmajer, Michael",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13231,MATH 491-199,MATH,491,Reading and Research,,CC,AMAT,IND,6,, - ,"Nadtochiy, Sergey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13509,MATH 491-200,MATH,491,Reading and Research,,CC,AMAT,IND,6,, - ,"Liu, Chun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14396,MATH 491-201,MATH,491,Reading and Research,,CC,AMAT,IND,6,, - ,"Lubin, Arthur",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15064,MATH 497-01,MATH,497,Special Problems,,CC,AMAT,IND,3,MW,1125 - 1240,"Ellis, Robert",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11496,MATH 500-01,MATH,500,Applied Analysis I,,CC,AMAT,LEC,3,TR,1515 - 1630,"Cialenco, Igor",,28,0,28,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11707,MATH 522-01,MATH,522,Mathematical Modeling,00,CC,AMAT,LEC,3,WF,1350 - 1505,"Tier, Charles",,30,0,30,0,Mies,PH-108,56,22-AUG-22 to 10-DEC-22
+Open,12802,MATH 527-01,MATH,527,Machine Learning in Finance:,,CC,AMAT,LEC,3,TR,1700 - 1815,"Dixon, Matthew",,35,0,35,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14982,MATH 527-02,MATH,527,Machine Learning in Finance:,,CC,AMAT,LEC,3,, - ,"Dixon, Matthew",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15068,MATH 530-01,MATH,530,Applied/Computational Algebra,7P,CC,AMAT,LEC,3,TR,1125 - 1240,"Petrovic, Sonja",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15065,MATH 553-01,MATH,553,Discrete Applied Mathematics I,,CC,AMAT,LEC,3,MW,1000 - 1115,"Pelsmajer, Michael",,28,0,28,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11494,MATH 564-01,MATH,564,Applied Statistics,4R,CC,AMAT,LEC,3,TR,1000 - 1115,"Kang, Lulu",,50,0,50,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11072,MATH 565-01,MATH,565,Monte Carlo Methods in Fin,,CC,AMAT,LEC,3,TR,0835 - 0950,"Ding, Yuhan",,45,0,45,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10315,MATH 565-02,MATH,565,Monte Carlo Methods in Fin,,CC,AMAT,LEC,3,, - ,"Ding, Yuhan",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10317,MATH 577-01,MATH,577,Computational Mathematics I,25,CC,AMAT,LEC,3,TR,1350 - 1505,"Li, Shuwang",,20,0,20,0,Mies,HH-010,40,22-AUG-22 to 10-DEC-22
+Open,13973,MATH 577-02,MATH,577,Computational Mathematics I,,CC,AMAT,LEC,3,, - ,"Li, Shuwang",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15066,MATH 589-01,MATH,589,Num Meth for Partial Diff Equa,,CC,AMAT,LEC,3,MW,1125 - 1240,"Li, Xiaofan",,28,0,28,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11475,MATH 591-114,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Petrovic, Sonja",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10660,MATH 591-115,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Hickernell, Fred",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12384,MATH 591-120,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Stasi, Despina",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10650,MATH 591-133,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Duan, Jinqiao",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11000,MATH 591-141,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Li, Shuwang",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11001,MATH 591-158,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Li, Xiaofan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11002,MATH 591-160,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Bielecki, Tomasz",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12753,MATH 591-171,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,1,, - ,"Nadtochiy, Sergey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12755,MATH 591-175,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Cheng, Maggie",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11003,MATH 591-188,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Ellis, Robert",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11004,MATH 591-189,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Kaul, Hemanshu",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12793,MATH 591-190,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Gong, Ruoting",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11005,MATH 591-191,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Cialenco, Igor",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11324,MATH 591-193,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Kang, Lulu",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11006,MATH 591-198,MATH,591,Research and Thesis M.S.,,CC,AMAT,IND,20,, - ,"Pelsmajer, Michael",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15067,MATH 593-01,MATH,593,Seminar in Applied Mathematics,,CC,AMAT,SEM,0,M,1350 - 1505,"Gong, Ruoting",,30,0,30,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11497,MATH 594-170,MATH,594,Professional Master's Project,,CC,AMAT,IND,20,, - ,"Tier, Charles",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11610,MATH 597-114,MATH,597,Reading and Special Projects,,CC,AMAT,IND,3,, - ,"Petrovic, Sonja",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11787,MATH 597-170,MATH,597,Reading and Special Projects,,CC,AMAT,IND,20,, - ,"Tier, Charles",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11608,MATH 691-114,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Petrovic, Sonja",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10321,MATH 691-115,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Hickernell, Fred",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10322,MATH 691-133,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Duan, Jinqiao",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11007,MATH 691-141,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Li, Shuwang",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10323,MATH 691-158,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Li, Xiaofan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10324,MATH 691-160,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Bielecki, Tomasz",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12754,MATH 691-171,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Nadtochiy, Sergey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12756,MATH 691-175,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Cheng, Maggie",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11008,MATH 691-188,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Ellis, Robert",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11009,MATH 691-189,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Kaul, Hemanshu",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12048,MATH 691-190,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Gong, Ruoting",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10927,MATH 691-191,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Cialenco, Igor",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11614,MATH 691-193,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Kang, Lulu",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11010,MATH 691-198,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Pelsmajer, Michael",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13328,MATH 691-199,MATH,691,Research and Thesis Ph.D.,,CC,AMAT,IND,20,, - ,"Liu, Chun",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10063,PHYS 100-01,PHYS,100,Intro to the Profession,,LS,PHYS,LEC,2,T,1515 - 1605,"Littlejohn, Bryce",,15,0,15,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,10063,PHYS 100-01,PHYS,100,Intro to the Profession,,LS,PHYS,LEC,2,F,1125 - 1215,"Littlejohn, Bryce",,15,0,15,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,11679,PHYS 120-01,PHYS,120,Astronomy,,LS,PHYS,LEC,3,MW,1000 - 1115,"Gidalevitz, David",,40,0,40,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,10064,PHYS 123-01,PHYS,123,General Physics I:  Mechanics,,LS,PHYS,LEC,4,MW,0835 - 0950,"Gidalevitz, David",,48,0,48,0,Mies,PS-240,48,22-AUG-22 to 10-DEC-22
+Open,10067,PHYS 123-02,PHYS,123,General Physics I:  Mechanics,,LS,PHYS,LEC,4,TR,0835 - 0950,"Laurent-Muehleisen, Sally",,48,0,48,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,11680,PHYS 123-03,PHYS,123,General Physics I:  Mechanics,,LS,PHYS,LEC,4,TR,1350 - 1505,"Laurent-Muehleisen, Sally",,48,0,48,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,10065,PHYS 123-L01,PHYS,123,Laboratory,,LS,PHYS,LAB,0,T,1000 - 1115,"Gidalevitz, David",,24,0,24,0,Mies,PS-265B,27,22-AUG-22 to 10-DEC-22
+Open,10065,PHYS 123-L01,PHYS,123,Laboratory,,LS,PHYS,REC,0,T,0835 - 0950,"Gidalevitz, David",,24,0,24,0,Mies,PS-152,48,22-AUG-22 to 10-DEC-22
+Open,10066,PHYS 123-L02,PHYS,123,Laboratory,,LS,PHYS,LAB,0,W,1000 - 1115,"Gidalevitz, David",,24,0,24,0,Mies,PS-265B,27,22-AUG-22 to 10-DEC-22
+Open,10066,PHYS 123-L02,PHYS,123,Laboratory,,LS,PHYS,REC,0,W,0835 - 0950,"Gidalevitz, David",,24,0,24,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,11201,PHYS 123-L03,PHYS,123,Laboratory,,LS,PHYS,LAB,0,T,1825 - 1940,"Laurent-Muehleisen, Sally",,24,0,24,0,Mies,PS-265B,27,22-AUG-22 to 10-DEC-22
+Open,11201,PHYS 123-L03,PHYS,123,Laboratory,,LS,PHYS,REC,0,T,1700 - 1815,"Laurent-Muehleisen, Sally",,24,0,24,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,11202,PHYS 123-L04,PHYS,123,Laboratory,,LS,PHYS,LAB,0,R,1825 - 1940,"Laurent-Muehleisen, Sally",,24,0,24,0,Mies,PS-265B,27,22-AUG-22 to 10-DEC-22
+Open,11202,PHYS 123-L04,PHYS,123,Laboratory,,LS,PHYS,REC,0,R,1700 - 1815,"Laurent-Muehleisen, Sally",,24,0,24,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,11681,PHYS 123-L05,PHYS,123,Laboratory,,LS,PHYS,REC,0,W,1350 - 1505,"Laurent-Muehleisen, Sally",,24,0,24,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,11681,PHYS 123-L05,PHYS,123,Laboratory,,LS,PHYS,LAB,0,W,1515 - 1630,"Laurent-Muehleisen, Sally",,24,0,24,0,Mies,PS-265B,27,22-AUG-22 to 10-DEC-22
+Open,11682,PHYS 123-L06,PHYS,123,Laboratory,,LS,PHYS,REC,0,R,0835 - 0950,"Laurent-Muehleisen, Sally",,24,0,24,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,11682,PHYS 123-L06,PHYS,123,Laboratory,,LS,PHYS,LAB,0,R,1000 - 1115,"Laurent-Muehleisen, Sally",,24,0,24,0,Mies,PS-265B,27,22-AUG-22 to 10-DEC-22
+Open,10068,PHYS 200-01,PHYS,200,"Energy, Waves, Mtrls, & Forces",,LS,PHYS,LEC,4,TR,1125 - 1305,"Springer, Greggory",,110,0,110,0,Mies,RE-104,152,22-AUG-22 to 10-DEC-22
+Open,10074,PHYS 221-01,PHYS,221,Gen Physics II: Elect&Magntism,,LS,PHYS,LEC,4,MW,1000 - 1115,"Kaplan, Daniel",,48,0,48,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,11684,PHYS 221-02,PHYS,221,Gen Physics II: Elect&Magntism,,LS,PHYS,LEC,4,MW,1125 - 1240,"Morrison, Timothy",,48,0,48,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,10069,PHYS 221-03,PHYS,221,Gen Physics II: Elect&Magntism,,LS,PHYS,LEC,4,MW,1350 - 1505,"Morrison, Timothy",,48,0,48,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,10071,PHYS 221-04,PHYS,221,Gen Physics II: Elect&Magntism,,LS,PHYS,LEC,4,TR,0835 - 0950,"Mishra, Bhoopesh",,48,0,48,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,15214,PHYS 221-05,PHYS,221,Gen Physics II: Elect&Magntism,,LS,PHYS,LEC,4,TR,1000 - 1115,"Mishra, Bhoopesh",,48,0,48,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,10070,PHYS 221-L01,PHYS,221,Laboratory,,LS,PHYS,LAB,0,T,1000 - 1115,"Kaplan, Daniel",,24,0,24,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,10070,PHYS 221-L01,PHYS,221,Laboratory,,LS,PHYS,REC,0,T,0835 - 0950,"Kaplan, Daniel",,24,0,24,0,Mies,RE-258,42,22-AUG-22 to 10-DEC-22
+Open,10863,PHYS 221-L02,PHYS,221,Laboratory,,LS,PHYS,LAB,0,R,1000 - 1115,"Kaplan, Daniel",,24,0,24,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,10863,PHYS 221-L02,PHYS,221,Laboratory,,LS,PHYS,REC,0,R,0835 - 0950,"Kaplan, Daniel",,24,0,24,0,Mies,RE-258,42,22-AUG-22 to 10-DEC-22
+Open,10072,PHYS 221-L03,PHYS,221,Laboratory,,LS,PHYS,LAB,0,T,1825 - 1940,"Morrison, Timothy",,24,0,24,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,10072,PHYS 221-L03,PHYS,221,Laboratory,,LS,PHYS,REC,0,T,1700 - 1815,"Morrison, Timothy",,24,0,24,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,10073,PHYS 221-L04,PHYS,221,Laboratory,,LS,PHYS,LAB,0,R,1825 - 1940,"Morrison, Timothy",,24,0,24,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,10073,PHYS 221-L04,PHYS,221,Laboratory,,LS,PHYS,REC,0,R,1700 - 1815,"Morrison, Timothy",,24,0,24,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,10075,PHYS 221-L05,PHYS,221,Laboratory,,LS,PHYS,REC,0,T,1350 - 1505,"Morrison, Timothy",,24,0,24,0,Mies,PS-152,48,22-AUG-22 to 10-DEC-22
+Open,10075,PHYS 221-L05,PHYS,221,Laboratory,,LS,PHYS,LAB,0,T,1515 - 1630,"Morrison, Timothy",,24,0,24,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,11683,PHYS 221-L06,PHYS,221,Laboratory,,LS,PHYS,REC,0,W,1700 - 1815,"Morrison, Timothy",,24,0,24,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,11683,PHYS 221-L06,PHYS,221,Laboratory,,LS,PHYS,LAB,0,W,1825 - 1940,"Morrison, Timothy",,24,0,24,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,11685,PHYS 221-L07,PHYS,221,Laboratory,,LS,PHYS,REC,0,W,0835 - 0950,"Mishra, Bhoopesh",,24,0,24,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,11685,PHYS 221-L07,PHYS,221,Laboratory,,LS,PHYS,LAB,0,W,1000 - 1115,"Mishra, Bhoopesh",,24,0,24,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,11686,PHYS 221-L08,PHYS,221,Laboratory,,LS,PHYS,LAB,0,F,1000 - 1115,"Mishra, Bhoopesh",,24,0,24,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,11686,PHYS 221-L08,PHYS,221,Laboratory,,LS,PHYS,REC,0,F,0835 - 0950,"Mishra, Bhoopesh",,24,0,24,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,15215,PHYS 221-L09,PHYS,221,Laboratory,,LS,PHYS,REC,4,W,1350 - 1505,"Mishra, Bhoopesh",,24,0,24,0,Mies,RE-242,30,22-AUG-22 to 10-DEC-22
+Open,15215,PHYS 221-L09,PHYS,221,Laboratory,,LS,PHYS,LAB,4,W,1515 - 1630,"Mishra, Bhoopesh",,24,0,24,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,15216,PHYS 221-L10,PHYS,221,Laboratory,,LS,PHYS,REC,4,F,1350 - 1505,"Mishra, Bhoopesh",,24,0,24,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,15216,PHYS 221-L10,PHYS,221,Laboratory,,LS,PHYS,LAB,4,F,1515 - 1630,"Mishra, Bhoopesh",,24,0,24,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,10076,PHYS 223-01,PHYS,223,General Physics III,69,LS,PHYS,B,4,TR,1350 - 1505,"Mishra, Bhoopesh",,15,0,15,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,13750,PHYS 223-L01,PHYS,223,General Physics III,,LS,PHYS,REC,0,M,0835 - 0950,"Mishra, Bhoopesh",,15,0,15,0,Mies,PS-121,54,22-AUG-22 to 10-DEC-22
+Open,13750,PHYS 223-L01,PHYS,223,General Physics III,,LS,PHYS,LAB,0,M,1000 - 1115,"Mishra, Bhoopesh",,15,0,15,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,10077,PHYS 224-01,PHYS,224,Gen Physics III for Engnrs,69,LS,PHYS,LEC,3,TR,1350 - 1505,"Mishra, Bhoopesh",,35,0,35,0,Mies,PS-129,54,22-AUG-22 to 10-DEC-22
+Open,14981,PHYS 225-L01,PHYS,225,General Physics III Lab only,,LS,PHYS,LAB,1,M,1000 - 1115,"Mishra, Bhoopesh",,10,0,10,0,Mies,PS-265A,27,22-AUG-22 to 10-DEC-22
+Open,14324,PHYS 300-02,PHYS,300,Instrumentation Lab,,LS,PHYS,LEC,4,TR,1700 - 1950,"Torun, Yagmur",,13,0,13,0,Mies,PS-120,46,22-AUG-22 to 10-DEC-22
+Open,11917,PHYS 301-01,PHYS,301,Math Methods of Physics,,LS,PHYS,LEC,3,MW,1125 - 1240,"Shylnov, Yurii",,20,0,20,0,Mies,RE-241,30,22-AUG-22 to 10-DEC-22
+Open,10078,PHYS 308-01,PHYS,308,Classical Mechanics I,,LS,PHYS,LEC,3,TR,1125 - 1240,"Bunker, Grant",,24,0,24,0,Mies,PS-152,48,22-AUG-22 to 10-DEC-22
+Open,10079,PHYS 405-01,PHYS,405,Fndmntls of Quantum Theory I,,LS,PHYS,LEC,3,MW,1350 - 1505,"Springer, Greggory",,25,0,25,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,15294,PHYS 412-01,PHYS,412,Modern Optics and Lasers,,LS,PHYS,LEC,3,TR,1350 - 1505,"Segre, Carlo",,20,0,20,0,Mies,SB-106,29,22-AUG-22 to 10-DEC-22
+Open,10080,PHYS 413-01,PHYS,413,Electromagnetism I,,LS,PHYS,LEC,3,MW,1000 - 1115,"Spentzouris, Linda",,19,0,19,0,Mies,SB-106,29,22-AUG-22 to 10-DEC-22
+Open,10081,PHYS 427-01,PHYS,427,Advanced Physics Lab I,,LS,PHYS,B,3,F,1350 - 1505,"Zasadzinski, John",,16,0,16,0,Mies,PS-130,25,22-AUG-22 to 10-DEC-22
+Open,10081,PHYS 427-01,PHYS,427,Advanced Physics Lab I,,LS,PHYS,LAB,3,F,1000 - 1240,"Zasadzinski, John",,16,0,16,0,Mies,PS-130,25,22-AUG-22 to 10-DEC-22
+Open,15316,PHYS 460-01,PHYS,460,Stellar Astrophysics,,LS,PHYS,LEC,3,TR,1000 - 1115,"Laurent-Muehleisen, Sally",,15,0,15,0,Mies,PS-213,27,22-AUG-22 to 10-DEC-22
+Open,10082,PHYS 485-01,PHYS,485,Physics Colloquium,4F,LS,PHYS,SEM,1,R,1515 - 1630,"Littlejohn, Bryce",,20,0,20,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,11438,PHYS 491-101,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Shylnov, Yurii",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12405,PHYS 491-105,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Suthar, Kamleshkumar",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11057,PHYS 491-107,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Sullivan, Zack",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11826,PHYS 491-108,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Mancini, Derrick",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11077,PHYS 491-109,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Glodowski, Alan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13582,PHYS 491-115,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Littlejohn, Bryce",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10691,PHYS 491-122,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Kaplan, Daniel",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10083,PHYS 491-125,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Segre, Carlo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11078,PHYS 491-129,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Zasadzinski, John",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11079,PHYS 491-134,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Bunker, Grant",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11080,PHYS 491-137,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Coffey, Liam",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11082,PHYS 491-163,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Spentzouris, Linda",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11083,PHYS 491-183,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Gidalevitz, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10556,PHYS 491-184,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Terry, Jeffrey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11084,PHYS 491-190,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Torun, Yagmur",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13207,PHYS 491-191,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Wereszczynski, Jeffery",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14769,PHYS 491-192,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Laurent-Muehleisen, Sally",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15042,PHYS 491-193,PHYS,491,Undergraduate Research,,LS,PHYS,IND,6,, - ,"Khatiwada, Rakshya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12015,PHYS 497-122,PHYS,497,Special Topics in Physics,,LS,PHYS,IND,3,, - ,"Kaplan, Daniel",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12790,PHYS 497-125,PHYS,497,Special Topics in Physics,,LS,PHYS,IND,10,, - ,"Segre, Carlo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12356,PHYS 497-184,PHYS,497,Special Topics in Physics,,LS,PHYS,IND,3,, - ,"Terry, Jeffrey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15025,PHYS 497-186,PHYS,497,Special Topics in Physics,,LS,PHYS,IND,10,, - ,"Khounsary, Ali",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10084,PHYS 501-01,PHYS,501,Meth Theoretical Physics I,,LS,PHYS,LEC,3,TR,1350 - 1505,"Shylnov, Yurii",,15,0,15,0,Mies,RE-119,30,22-AUG-22 to 10-DEC-22
+Open,10085,PHYS 508-01,PHYS,508,Analytical Dynamics,,LS,PHYS,LEC,3,TR,1000 - 1115,"Snopok, Pavel",,17,0,17,0,Mies,PS-116,21,22-AUG-22 to 10-DEC-22
+Open,10723,PHYS 509-01,PHYS,509,Quantum Theory I,,LS,PHYS,LEC,3,MW,1350 - 1505,"Shylnov, Yurii",,15,0,15,0,Mies,PS-116,21,22-AUG-22 to 10-DEC-22
+Open,11243,PHYS 515-01,PHYS,515,Statistical Mechanics,,LS,PHYS,LEC,3,MW,1000 - 1115,"Wereszczynski, Jeffery",,15,0,15,0,Mies,PS-116,21,22-AUG-22 to 10-DEC-22
+Open,12410,PHYS 525-01,PHYS,525,Appl Physics Methods Sci Engg,4H,LS,PHYS,LEC,3,F,1350 - 1630,"Khounsary, Ali",,8,0,8,0,Mies,PS-116,21,22-AUG-22 to 10-DEC-22
+Open,12411,PHYS 526-01,PHYS,526,Applied Physics Case Studies,4H,LS,PHYS,LEC,3,F,1350 - 1630,"Khounsary, Ali",,6,0,6,0,Mies,PS-116,21,22-AUG-22 to 10-DEC-22
+Open,15217,PHYS 537-01,PHYS,537,Solid State Physics I,,LS,PHYS,LEC,3,TR,1350 - 1505,"Terry, Jeffrey",,15,0,15,0,Mies,SB-201,29,22-AUG-22 to 10-DEC-22
+Open,11351,PHYS 545-01,PHYS,545,Particle Physics I,,LS,PHYS,LEC,3,MW,1350 - 1505,"Sullivan, Zack",,15,0,15,0,Mies,SB-107,29,22-AUG-22 to 10-DEC-22
+Open,10086,PHYS 571-01,PHYS,571,Radiation Physics,,LS,PHYS,LEC,3,R,1825 - 2105,"Littlejohn, Bryce",,10,0,10,0,Mies,PS-240,48,22-AUG-22 to 10-DEC-22
+Open,10087,PHYS 571-02,PHYS,571,Radiation Physics,,LS,PHYS,LEC,3,, - ,"Littlejohn, Bryce",,30,0,30,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12605,PHYS 573-01,PHYS,573,Stands Statutes Regulations,,LS,PHYS,LEC,3,T,1700 - 1940,"Scherer, David",,10,0,10,0,Mies,PS-116,21,22-AUG-22 to 10-DEC-22
+Open,12606,PHYS 573-02,PHYS,573,Stands Statutes Regulations,,LS,PHYS,LEC,3,, - ,"Scherer, David",,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10090,PHYS 575-01,PHYS,575,Case Studies Health Physics,,LS,PHYS,LEC,3,R,1700 - 1940,"Chen, Shih-Yew",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12314,PHYS 576-02,PHYS,576,Radiation Dosimetry,,LS,PHYS,LEC,3,, - ,,,20,0,20,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10094,PHYS 585-01,PHYS,585,Physics Colloquium,4F,LS,PHYS,SEM,1,R,1515 - 1630,"Littlejohn, Bryce",,10,0,10,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,11106,PHYS 591-102,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Snopok, Pavel",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11085,PHYS 591-107,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Sullivan, Zack",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11822,PHYS 591-115,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Littlejohn, Bryce",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11086,PHYS 591-122,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Kaplan, Daniel",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10920,PHYS 591-125,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Segre, Carlo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10095,PHYS 591-129,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Zasadzinski, John",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10557,PHYS 591-134,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Bunker, Grant",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10558,PHYS 591-137,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Coffey, Liam",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11995,PHYS 591-139,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Khounsary, Ali",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11770,PHYS 591-159,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Wereszczynski, Jeffery",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10559,PHYS 591-163,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Spentzouris, Linda",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10714,PHYS 591-183,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Gidalevitz, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11145,PHYS 591-184,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Terry, Jeffrey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11649,PHYS 591-187,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Laurent-Muehleisen, Sally",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11088,PHYS 591-190,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Torun, Yagmur",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15035,PHYS 591-191,PHYS,591,Research and Thesis M.S.,,LS,PHYS,IND,20,, - ,"Wisniewski, Eric",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12772,PHYS 594-125,PHYS,594,Research Project,,LS,PHYS,IND,10,, - ,"Segre, Carlo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12315,PHYS 594-139,PHYS,594,Research Project,,LS,PHYS,IND,10,, - ,"Khounsary, Ali",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12644,PHYS 597-101,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Shylnov, Yurii",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11107,PHYS 597-102,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Snopok, Pavel",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11089,PHYS 597-107,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Sullivan, Zack",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11823,PHYS 597-115,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Littlejohn, Bryce",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10664,PHYS 597-122,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Kaplan, Daniel",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11090,PHYS 597-125,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Segre, Carlo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11091,PHYS 597-129,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Zasadzinski, John",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10560,PHYS 597-134,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Bunker, Grant",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10096,PHYS 597-137,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Coffey, Liam",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11093,PHYS 597-163,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Spentzouris, Linda",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11094,PHYS 597-183,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Gidalevitz, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11146,PHYS 597-184,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Terry, Jeffrey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11095,PHYS 597-190,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Torun, Yagmur",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11454,PHYS 597-198,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Chen, Shih-Yew",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15023,PHYS 597-199,PHYS,597,Reading&Special Problems,,LS,PHYS,IND,20,, - ,"Khatiwada, Rakshya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15282,PHYS 597-200,PHYS,597,Intro to the Space Environment,9S,LS,PHYS,LEC,3,MW,1125 - 1240,"Datta-Barua, Seebany",,30,0,30,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,10097,PHYS 685-01,PHYS,685,Physics Colloquium,4F,LS,PHYS,SEM,0,R,1515 - 1630,"Littlejohn, Bryce",,21,0,21,0,Mies,PS-111,98,22-AUG-22 to 10-DEC-22
+Open,11108,PHYS 691-102,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Snopok, Pavel",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11096,PHYS 691-107,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Sullivan, Zack",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11824,PHYS 691-115,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Littlejohn, Bryce",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10561,PHYS 691-122,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Kaplan, Daniel",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10562,PHYS 691-125,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Segre, Carlo",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10563,PHYS 691-129,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Zasadzinski, John",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10564,PHYS 691-134,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Bunker, Grant",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10565,PHYS 691-137,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Coffey, Liam",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10566,PHYS 691-140,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Morrison, Timothy",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11596,PHYS 691-159,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Wereszczynski, Jeffery",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10568,PHYS 691-163,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Spentzouris, Linda",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10569,PHYS 691-183,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Gidalevitz, David",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10659,PHYS 691-184,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Terry, Jeffrey",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11097,PHYS 691-190,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Torun, Yagmur",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14393,PHYS 691-191,PHYS,691,Research and Thesis Ph.D.,,LS,PHYS,IND,20,, - ,"Khatiwada, Rakshya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10445,PSYC 203-01,PSYC,203,Undergrad Stats Bhvrl Sci,,LS,PSYC,LEC,4,MW,1000 - 1115,,,40,0,40,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13942,PSYC 203-02,PSYC,203,Laboratory,,LS,PSYC,LAB,0,W,1125 - 1215,,,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14716,PSYC 203-03,PSYC,203,Laboratory,,LS,PSYC,LAB,0,W,0835 - 0925,,,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10447,PSYC 221-01,PSYC,221,Intro to Psychological Science,,LS,PSYC,LEC,3,TR,1350 - 1505,,,50,0,50,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10449,PSYC 301-01,PSYC,301,Industrial Psychology,,LS,PSYC,LEC,3,TR,1700 - 1815,"Bauer, Kristina",,50,0,50,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,10452,PSYC 303-01,PSYC,303,Intro to Psychopathology,,LS,PSYC,LEC,3,MW,1125 - 1240,,,50,0,50,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15218,PSYC 312-01,PSYC,312,Human Motivation and Emotion,,LS,PSYC,LEC,3,TR,1125 - 1240,"Moller, Arlen",,35,0,35,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15219,PSYC 350-01,PSYC,350,Prejudice and Stigma,,LS,PSYC,LEC,3,MW,1350 - 1505,"Legate, Nicole",,50,0,50,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10455,PSYC 410-01,PSYC,410,Intro Rehab/Mental Health Cslg,,LS,PSYC,LEC,3,M,1350 - 1630,"Lane, Francis",,25,0,25,0,Mies,SB-225,29,22-AUG-22 to 10-DEC-22
+Open,11765,PSYC 410-02,PSYC,410,Intro Rehab/Mental Health Cslg,,LS,PSYC,LEC,3,, - ,"Lane, Francis",,15,0,15,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10457,PSYC 412-01,PSYC,412,Multicultural/Psychosocial Iss,,LS,PSYC,LEC,3,W,1350 - 1630,,,20,0,20,0,Mies,SB-225,29,22-AUG-22 to 10-DEC-22
+Open,11498,PSYC 412-02,PSYC,412,Multicultural/Psychosocial Iss,,LS,PSYC,LEC,3,, - ,,,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15291,PSYC 426-01,PSYC,426,Cognitive Science,,LS,PSYC,LEC,3,TR,0835 - 0950,,,30,0,30,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15220,PSYC 455-01,PSYC,455,Dev and Eval of Traing Orgs,,LS,PSYC,LEC,3,TR,1515 - 1630,"Bauer, Kristina",,30,0,30,0,Mies,SB-113,60,22-AUG-22 to 10-DEC-22
+Open,10458,PSYC 481-01,PSYC,481,Group and Leadership at Work,0H,LS,PSYC,LEC,3,T,1825 - 2105,"Ayman, Roya",,5,0,5,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15221,PSYC 485-104,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Ellison, Rachael",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11673,PSYC 485-105,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Legate, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14383,PSYC 485-106,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Bauer, Kristina",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11032,PSYC 485-115,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Ditchman, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10889,PSYC 485-120,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Lee, Eun-Jeong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10890,PSYC 485-130,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Ayman, Roya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10893,PSYC 485-136,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Morris, Scott",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11303,PSYC 485-153,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Moller, Arlen",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11306,PSYC 485-157,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Kazukauskas, Kelly",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10894,PSYC 485-175,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Corrigan, Patrick",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10895,PSYC 485-177,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Larson, Jonathan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10896,PSYC 485-178,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Lane, Francis",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11311,PSYC 485-183,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Haedt Matt, Alissa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13236,PSYC 485-184,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Du Bois, Steff",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12648,PSYC 485-190,PSYC,485,Senior Capstone Project I,,LS,PSYC,IND,3,, - ,"Chasson, Gregory",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15222,PSYC 486-104,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Ellison, Rachael",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15223,PSYC 486-105,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Legate, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15224,PSYC 486-106,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Bauer, Kristina",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11033,PSYC 486-115,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Ditchman, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10898,PSYC 486-120,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Lee, Eun-Jeong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10899,PSYC 486-130,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Ayman, Roya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10902,PSYC 486-136,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Morris, Scott",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11304,PSYC 486-153,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Moller, Arlen",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11307,PSYC 486-157,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Kazukauskas, Kelly",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10903,PSYC 486-175,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Corrigan, Patrick",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10904,PSYC 486-177,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Larson, Jonathan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10905,PSYC 486-178,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Lane, Francis",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11312,PSYC 486-183,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Haedt Matt, Alissa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13237,PSYC 486-184,PSYC,486,Senior Capstone Project II,,LS,PSYC,IND,3,, - ,"Du Bois, Steff",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11674,PSYC 497-105,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Legate, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12317,PSYC 497-106,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Bauer, Kristina",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11034,PSYC 497-115,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Ditchman, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10463,PSYC 497-120,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Lee, Eun-Jeong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10464,PSYC 497-130,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Ayman, Roya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10468,PSYC 497-136,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Morris, Scott",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11305,PSYC 497-153,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Moller, Arlen",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11308,PSYC 497-157,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Kazukauskas, Kelly",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10519,PSYC 497-175,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Corrigan, Patrick",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10520,PSYC 497-177,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Larson, Jonathan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10912,PSYC 497-178,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Lane, Francis",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11313,PSYC 497-183,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Haedt Matt, Alissa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12775,PSYC 497-184,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Du Bois, Steff",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12050,PSYC 497-190,PSYC,497,Special Problems,,LS,PSYC,IND,6,, - ,"Chasson, Gregory",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11883,PSYC 503-01,PSYC,503,Cognitive and Affective Bases,,LS,PSYC,LEC,3,M,1000 - 1240,,,20,0,20,0,Mies,WH-115,46,22-AUG-22 to 10-DEC-22
+Open,10469,PSYC 504-01,PSYC,504,Individual & Cultural Diffrncs,,LS,PSYC,LEC,3,M,1515 - 1755,"Du Bois, Steff",,20,0,20,0,Mies,WH-115,46,22-AUG-22 to 10-DEC-22
+Open,11884,PSYC 506-01,PSYC,506,Therapy I,,LS,PSYC,LEC,3,M,1350 - 1630,"Chasson, Gregory",,18,0,18,0,Mies,WH-116,46,22-AUG-22 to 10-DEC-22
+Open,10471,PSYC 511-01,PSYC,511,Psychometric Theory,,LS,PSYC,LEC,3,R,1350 - 1630,"Mead, Alan",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13464,PSYC 511-02,PSYC,511,Psychometric Theory,,LS,PSYC,LEC,3,, - ,"Mead, Alan",,30,0,30,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15225,PSYC 512-01,PSYC,512,Clinical Assessment II,,LS,PSYC,LEC,3,W,1000 - 1240,"Haedt Matt, Alissa",,18,0,18,0,Mies,WH-115,46,22-AUG-22 to 10-DEC-22
+Open,12909,PSYC 513-01,PSYC,513,Assess Rehab/Mental Hlth Cslng,,LS,PSYC,LEC,3,M,1700 - 1940,"Ditchman, Nicole",,15,0,15,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14843,PSYC 513-02,PSYC,513,Assess Rehab/Mental Hlth Cslng,,LS,PSYC,LEC,3,, - ,"Ditchman, Nicole",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10472,PSYC 523-01,PSYC,523,Theories of Psychotherapy,,LS,PSYC,LEC,3,W,1000 - 1240,"Kazukauskas, Kelly",,15,0,15,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11192,PSYC 523-02,PSYC,523,Theories of Psychotherapy,,LS,PSYC,LEC,3,, - ,"Kazukauskas, Kelly",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,12617,PSYC 526-01,PSYC,526,Psychopathology,,LS,PSYC,LEC,3,M,1000 - 1240,"Haedt Matt, Alissa",,15,0,15,0,Mies,WH-116,46,22-AUG-22 to 10-DEC-22
+Open,10473,PSYC 533-01,PSYC,533,Clinical Practicum,,LS,PSYC,PRA,4,, - ,"Du Bois, Steff",,27,0,27,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15226,PSYC 535-01,PSYC,535,Personnel Selection,,LS,PSYC,LEC,3,R,1700 - 1940,"Morris, Scott",,15,0,15,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10474,PSYC 545-01,PSYC,545,Graduate Statistics I,,LS,PSYC,LEC,3,MW,1350 - 1505,,,27,0,27,0,Mies,WH-117,37,22-AUG-22 to 10-DEC-22
+Open,11742,PSYC 547-01,PSYC,547,Evidence-Based Practice,,LS,PSYC,LEC,3,T,1350 - 1630,"Larson, Jonathan",,15,0,15,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14845,PSYC 547-02,PSYC,547,Evidence-Based Practice,,LS,PSYC,LEC,3,, - ,"Larson, Jonathan",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,11784,PSYC 549-01,PSYC,549,Practicum Rehab Mental Health,,LS,PSYC,PRA,6,T,1700 - 1830,"Kazukauskas, Kelly",,12,0,12,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14724,PSYC 549-02,PSYC,549,Practicum Rehab Mental Health,,LS,PSYC,PRA,6,T,1830 - 2000,"Kazukauskas, Kelly",,12,0,12,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10475,PSYC 554-01,PSYC,554,Survey:Multivariate Statistics,,LS,PSYC,LEC,3,T,1350 - 1630,"Morris, Scott",,27,0,27,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11402,PSYC 554-02,PSYC,554,Survey:Multivariate Statistics,,LS,PSYC,LEC,3,, - ,"Morris, Scott",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10476,PSYC 556-01,PSYC,556,Organizational Psychology,,LS,PSYC,LEC,3,W,1700 - 1940,"Ayman, Roya",,15,0,15,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,13746,PSYC 557-01,PSYC,557,Pre-Practicum Rehab/Mental Hlt,,LS,PSYC,LEC,3,M,1000 - 1240,"Kazukauskas, Kelly",,15,0,15,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14848,PSYC 557-02,PSYC,557,Pre-Practicum Rehab/Mental Hlt,,LS,PSYC,LEC,3,, - ,"Kazukauskas, Kelly",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10478,PSYC 558-01,PSYC,558,Industrial Psyc Internship I,,LS,PSYC,N,6,F,1000 - 1240,"Ayman, Roya",,14,0,14,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10479,PSYC 559-01,PSYC,559,Industrial Psych Internship II,,LS,PSYC,N,6,F,1350 - 1630,"Ayman, Roya",,14,0,14,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10480,PSYC 562-01,PSYC,562,Job Placement,,LS,PSYC,LEC,3,R,1350 - 1630,"Lane, Francis",,15,0,15,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11556,PSYC 562-02,PSYC,562,Job Placement,,LS,PSYC,LEC,3,, - ,"Lane, Francis",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,10481,PSYC 564-01,PSYC,564,Rehab/Mental Health Cnslng Res,,LS,PSYC,LEC,3,R,1000 - 1240,"Corrigan, Patrick",,15,0,15,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14847,PSYC 564-02,PSYC,564,Rehab/Mental Health Cnslng Res,,LS,PSYC,LEC,3,, - ,"Corrigan, Patrick",,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,15227,PSYC 573-01,PSYC,573,Psychosocial Bases:Dsblty&Bhvr,,LS,PSYC,LEC,3,W,1700 - 1940,"Lee, Eun-Jeong",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12913,PSYC 578-01,PSYC,578,Rehab Mntl Hlth Coun Intern I,,LS,PSYC,N,6,, - ,"Kazukauskas, Kelly",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11743,PSYC 579-01,PSYC,579,Rehab Mntl Hlth Coun Intern II,,LS,PSYC,N,6,, - ,"Kazukauskas, Kelly",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15228,PSYC 586-01,PSYC,586,Concepts of Supervision,,LS,PSYC,LEC,3,M,1700 - 1940,"Larson, Jonathan",,12,0,12,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,13749,PSYC 588-01,PSYC,588,Graduate Psychology Seminar,,LS,PSYC,LEC,3,T,1000 - 1240,"Sheehan, Lindsay",,20,0,20,0,Mies,WH-116,46,22-AUG-22 to 10-DEC-22
+Open,14353,PSYC 589-01,PSYC,589,Rehab Internship III,,LS,PSYC,N,6,, - ,,,10,0,10,0,Internet,-,0,22-AUG-22 to 10-DEC-22
+Open,14985,PSYC 591-104,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Ellison, Rachael",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13499,PSYC 591-105,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Legate, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11977,PSYC 591-106,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Bauer, Kristina",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11035,PSYC 591-115,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Ditchman, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10484,PSYC 591-120,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Lee, Eun-Jeong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10485,PSYC 591-130,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Ayman, Roya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10489,PSYC 591-136,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Morris, Scott",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10490,PSYC 591-175,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Corrigan, Patrick",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10491,PSYC 591-177,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Larson, Jonathan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10492,PSYC 591-178,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Lane, Francis",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11314,PSYC 591-183,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Haedt Matt, Alissa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12393,PSYC 591-184,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Du Bois, Steff",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11982,PSYC 591-190,PSYC,591,Research and Thesis M.S.,,LS,PSYC,IND,20,, - ,"Chasson, Gregory",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11978,PSYC 594-106,PSYC,594,Special Projects,,LS,PSYC,IND,20,, - ,"Bauer, Kristina",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11036,PSYC 594-115,PSYC,594,Special Projects,,LS,PSYC,IND,20,, - ,"Ditchman, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10494,PSYC 594-120,PSYC,594,Special Projects,,LS,PSYC,IND,20,, - ,"Lee, Eun-Jeong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10495,PSYC 594-130,PSYC,594,Special Projects,,LS,PSYC,IND,20,, - ,"Ayman, Roya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10497,PSYC 594-136,PSYC,594,Special Projects,,LS,PSYC,IND,20,, - ,"Morris, Scott",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11309,PSYC 594-157,PSYC,594,Special Projects,,LS,PSYC,IND,20,, - ,"Kazukauskas, Kelly",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10499,PSYC 594-175,PSYC,594,Special Projects,,LS,PSYC,IND,20,, - ,"Corrigan, Patrick",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10501,PSYC 594-177,PSYC,594,Special Projects,,LS,PSYC,IND,20,, - ,"Larson, Jonathan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10502,PSYC 594-178,PSYC,594,Special Projects,,LS,PSYC,IND,20,, - ,"Lane, Francis",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11315,PSYC 594-183,PSYC,594,Special Projects,,LS,PSYC,IND,20,, - ,"Haedt Matt, Alissa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11983,PSYC 594-190,PSYC,594,Special Projects,,LS,PSYC,IND,3,, - ,"Chasson, Gregory",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11979,PSYC 595-106,PSYC,595,Graduate Research Project,,LS,PSYC,IND,6,, - ,"Bauer, Kristina",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11832,PSYC 595-130,PSYC,595,Graduate Research Project,,LS,PSYC,IND,6,, - ,"Ayman, Roya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13557,PSYC 595-136,PSYC,595,Graduate Research Project,,LS,PSYC,IND,6,, - ,"Morris, Scott",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11984,PSYC 595-190,PSYC,595,Graduate Research Project,,LS,PSYC,IND,6,, - ,"Chasson, Gregory",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11980,PSYC 597-106,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Bauer, Kristina",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11037,PSYC 597-115,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Ditchman, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10504,PSYC 597-120,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Lee, Eun-Jeong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10505,PSYC 597-130,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Ayman, Roya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12694,PSYC 597-153,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Moller, Arlen",,5,0,5,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11310,PSYC 597-157,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Kazukauskas, Kelly",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10643,PSYC 597-175,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Corrigan, Patrick",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10508,PSYC 597-177,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Larson, Jonathan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10509,PSYC 597-178,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Lane, Francis",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11316,PSYC 597-183,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Haedt Matt, Alissa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12368,PSYC 597-184,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Du Bois, Steff",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11985,PSYC 597-190,PSYC,597,Special Problems,,LS,PSYC,IND,20,, - ,"Chasson, Gregory",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,13564,PSYC 599-190,PSYC,599,Clinical Internship,,LS,PSYC,N,1,, - ,"Chasson, Gregory",,27,0,27,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15053,PSYC 600-104,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Ellison, Rachael",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12357,PSYC 600-106,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Bauer, Kristina",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11120,PSYC 600-115,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Ditchman, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11121,PSYC 600-120,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Lee, Eun-Jeong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11122,PSYC 600-130,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Ayman, Roya",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11123,PSYC 600-136,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Morris, Scott",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11124,PSYC 600-175,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Corrigan, Patrick",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11126,PSYC 600-177,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Larson, Jonathan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12358,PSYC 600-178,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Lane, Francis",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11317,PSYC 600-183,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Haedt Matt, Alissa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15229,PSYC 600-184,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Du Bois, Steff",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,15002,PSYC 600-190,PSYC,600,Continuation of Residency,,LS,PSYC,IND,1,, - ,"Chasson, Gregory",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14986,PSYC 691-104,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Ellison, Rachael",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,14328,PSYC 691-105,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Legate, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11981,PSYC 691-106,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Bauer, Kristina",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11038,PSYC 691-115,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Ditchman, Nicole",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10512,PSYC 691-120,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Lee, Eun-Jeong",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10513,PSYC 691-130,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Ayman, Roya",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10514,PSYC 691-133,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Young, Michael",,20,0,20,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10515,PSYC 691-134,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Hopkins, Joyce",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10516,PSYC 691-136,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Morris, Scott",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10517,PSYC 691-175,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Corrigan, Patrick",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11172,PSYC 691-177,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Larson, Jonathan",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,10518,PSYC 691-178,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Lane, Francis",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11318,PSYC 691-183,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Haedt Matt, Alissa",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,12383,PSYC 691-184,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Du Bois, Steff",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
+Open,11986,PSYC 691-190,PSYC,691,Research and Thesis Ph.D.,,LS,PSYC,IND,20,, - ,"Chasson, Gregory",,10,0,10,0,Mies,-,0,22-AUG-22 to 10-DEC-22
